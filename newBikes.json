@@ -113,7 +113,7 @@
   },
   {
     "ID": 15,
-    "Model": "SpecializedDivergeBase",
+    "Model": "SpecializedDivergeB",
     "Size": "Sz:44",
     "HTA": 69.5,
     "Stack": 568,
@@ -121,7 +121,7 @@
   },
   {
     "ID": 16,
-    "Model": "SpecializedDivergeBase",
+    "Model": "SpecializedDivergeB",
     "Size": "Sz:49",
     "HTA": 70,
     "Stack": 571,
@@ -129,7 +129,7 @@
   },
   {
     "ID": 17,
-    "Model": "SpecializedDivergeBase",
+    "Model": "SpecializedDivergeB",
     "Size": "Sz:52",
     "HTA": 70.5,
     "Stack": 577,
@@ -137,7 +137,7 @@
   },
   {
     "ID": 18,
-    "Model": "SpecializedDivergeBase",
+    "Model": "SpecializedDivergeB",
     "Size": "Sz:54",
     "HTA": 71.25,
     "Stack": 592,
@@ -145,7 +145,7 @@
   },
   {
     "ID": 19,
-    "Model": "SpecializedDivergeBase",
+    "Model": "SpecializedDivergeB",
     "Size": "Sz:56",
     "HTA": 71.75,
     "Stack": 610,
@@ -153,7 +153,7 @@
   },
   {
     "ID": 20,
-    "Model": "SpecializedDivergeBase",
+    "Model": "SpecializedDivergeB",
     "Size": "Sz:58",
     "HTA": 71.75,
     "Stack": 634,
@@ -161,7 +161,7 @@
   },
   {
     "ID": 21,
-    "Model": "SpecializedDivergeBase",
+    "Model": "SpecializedDivergeB",
     "Size": "Sz:61",
     "HTA": 71.75,
     "Stack": 659,
@@ -169,7 +169,7 @@
   },
   {
     "ID": 22,
-    "Model": "SpecializedDivergeBase",
+    "Model": "SpecializedDivergeB",
     "Size": "Sz:74",
     "HTA": 72.25,
     "Stack": 684,
@@ -177,7 +177,7 @@
   },
   {
     "ID": 23,
-    "Model": "SpcializedAllezSport",
+    "Model": "SpecializedAllezSport",
     "Size": "Sz:44",
     "HTA": 71.5,
     "Stack": 516,
@@ -185,7 +185,7 @@
   },
   {
     "ID": 24,
-    "Model": "SpcializedAllezSport",
+    "Model": "SpecializedAllezSport",
     "Size": "Sz:49",
     "HTA": 72.25,
     "Stack": 535,
@@ -193,7 +193,7 @@
   },
   {
     "ID": 25,
-    "Model": "SpcializedAllezSport",
+    "Model": "SpecializedAllezSport",
     "Size": "Sz:52",
     "HTA": 73,
     "Stack": 552,
@@ -201,7 +201,7 @@
   },
   {
     "ID": 26,
-    "Model": "SpcializedAllezSport",
+    "Model": "SpecializedAllezSport",
     "Size": "Sz:54",
     "HTA": 73,
     "Stack": 570,
@@ -209,7 +209,7 @@
   },
   {
     "ID": 27,
-    "Model": "SpcializedAllezSport",
+    "Model": "SpecializedAllezSport",
     "Size": "Sz:56",
     "HTA": 73.5,
     "Stack": 596,
@@ -217,7 +217,7 @@
   },
   {
     "ID": 28,
-    "Model": "SpcializedAllezSport",
+    "Model": "SpecializedAllezSport",
     "Size": "Sz:58",
     "HTA": 73.5,
     "Stack": 627,
@@ -225,7 +225,7 @@
   },
   {
     "ID": 29,
-    "Model": "SpcializedAllezSport",
+    "Model": "SpecializedAllezSport",
     "Size": "Sz:61",
     "HTA": 74,
     "Stack": 649,
@@ -233,7 +233,7 @@
   },
   {
     "ID": 30,
-    "Model": "CannondaleCAAD13Disc",
+    "Model": "C’DaleCAAD13Disc",
     "Size": "Sz:44",
     "HTA": 70.9,
     "Stack": 505,
@@ -241,7 +241,7 @@
   },
   {
     "ID": 31,
-    "Model": "CannondaleCAAD13Disc",
+    "Model": "C’DaleCAAD13Disc",
     "Size": "Sz:48",
     "HTA": 71.2,
     "Stack": 520,
@@ -249,7 +249,7 @@
   },
   {
     "ID": 32,
-    "Model": "CannondaleCAAD13Disc",
+    "Model": "C’DaleCAAD13Disc",
     "Size": "Sz:51",
     "HTA": 71.2,
     "Stack": 535,
@@ -257,7 +257,7 @@
   },
   {
     "ID": 33,
-    "Model": "CannondaleCAAD13Disc",
+    "Model": "C’DaleCAAD13Disc",
     "Size": "Sz:54",
     "HTA": 71.2,
     "Stack": 555,
@@ -265,7 +265,7 @@
   },
   {
     "ID": 34,
-    "Model": "CannondaleCAAD13Disc",
+    "Model": "C’DaleCAAD13Disc",
     "Size": "Sz:56",
     "HTA": 73,
     "Stack": 575,
@@ -273,7 +273,7 @@
   },
   {
     "ID": 35,
-    "Model": "CannondaleCAAD13Disc",
+    "Model": "C’DaleCAAD13Disc",
     "Size": "Sz:58",
     "HTA": 73,
     "Stack": 595,
@@ -281,7 +281,7 @@
   },
   {
     "ID": 36,
-    "Model": "CannondaleCAAD13Disc",
+    "Model": "C’DaleCAAD13Disc",
     "Size": "Sz:60",
     "HTA": 73,
     "Stack": 615,
@@ -289,7 +289,7 @@
   },
   {
     "ID": 37,
-    "Model": "CannondaleCAAD13Disc",
+    "Model": "C’DaleCAAD13Disc",
     "Size": "Sz:62",
     "HTA": 73,
     "Stack": 635,
