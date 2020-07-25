@@ -418,5 +418,15 @@
     "HTA": 72,
     "Stack": 685,
     "Reach": 412.5
+  },
+  {
+    "ID": 43,
+    "Model": "Giant",
+    "Brand": "TCR Advanced",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 73,
+    "Stack": 545,
+    "Reach": 388
   }
 ]
