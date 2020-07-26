@@ -428,5 +428,15 @@
     "HTA": 73,
     "Stack": 545,
     "Reach": 388
+  },
+  {
+    "ID": 44,
+    "Model": "Endurace CF SL",
+    "Brand": "Canyon",
+    "Year": 2017,
+    "Size": "M",
+    "HTA": 73,
+    "Stack": 577,
+    "Reach": 382
   }
 ]
