@@ -438,5 +438,3505 @@
     "HTA": 73,
     "Stack": 577,
     "Reach": 382
+  },
+  {
+    "ID": 45,
+    "Model": "Roubaix Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 70,
+    "Stack": 540,
+    "Reach": 353
+  },
+  {
+    "ID": 46,
+    "Model": "Roubaix Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:49",
+    "HTA": 71.5,
+    "Stack": 555,
+    "Reach": 363
+  },
+  {
+    "ID": 47,
+    "Model": "Roubaix Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:52",
+    "HTA": 72,
+    "Stack": 570,
+    "Reach": 368
+  },
+  {
+    "ID": 48,
+    "Model": "Roubaix Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 72.75,
+    "Stack": 585,
+    "Reach": 376
+  },
+  {
+    "ID": 49,
+    "Model": "Roubaix Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73.5,
+    "Stack": 605,
+    "Reach": 384
+  },
+  {
+    "ID": 50,
+    "Model": "Roubaix Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73.5,
+    "Stack": 630,
+    "Reach": 392
+  },
+  {
+    "ID": 51,
+    "Model": "Roubaix Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 74,
+    "Stack": 665,
+    "Reach": 398
+  },
+  {
+    "ID": 52,
+    "Model": "SystemSix Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:47",
+    "HTA": 71.2,
+    "Stack": 500,
+    "Reach": 375
+  },
+  {
+    "ID": 53,
+    "Model": "SystemSix Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71.2,
+    "Stack": 520,
+    "Reach": 381
+  },
+  {
+    "ID": 54,
+    "Model": "SystemSix Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 73,
+    "Stack": 540,
+    "Reach": 386
+  },
+  {
+    "ID": 55,
+    "Model": "SystemSix Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73,
+    "Stack": 560,
+    "Reach": 392
+  },
+  {
+    "ID": 56,
+    "Model": "SystemSix Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73,
+    "Stack": 580,
+    "Reach": 398
+  },
+  {
+    "ID": 57,
+    "Model": "SystemSix Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 72.9,
+    "Stack": 600,
+    "Reach": 403
+  },
+  {
+    "ID": 58,
+    "Model": "SystemSix Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:62",
+    "HTA": 72.9,
+    "Stack": 620,
+    "Reach": 409
+  },
+  {
+    "ID": 59,
+    "Model": "Synapse Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 70.2,
+    "Stack": 510,
+    "Reach": 365
+  },
+  {
+    "ID": 60,
+    "Model": "Synapse Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 70.8,
+    "Stack": 530,
+    "Reach": 371
+  },
+  {
+    "ID": 61,
+    "Model": "Synapse Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71.7,
+    "Stack": 550,
+    "Reach": 377
+  },
+  {
+    "ID": 62,
+    "Model": "Synapse Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71.7,
+    "Stack": 570,
+    "Reach": 382
+  },
+  {
+    "ID": 63,
+    "Model": "Synapse Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73,
+    "Stack": 590,
+    "Reach": 386
+  },
+  {
+    "ID": 64,
+    "Model": "Synapse Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73,
+    "Stack": 610,
+    "Reach": 393
+  },
+  {
+    "ID": 65,
+    "Model": "Synapse Carb",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 73,
+    "Stack": 640,
+    "Reach": 402
+  },
+  {
+    "ID": 66,
+    "Model": "Topstone",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": "70,0",
+    "Stack": 518,
+    "Reach": 368
+  },
+  {
+    "ID": 67,
+    "Model": "Topstone",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "SM",
+    "HTA": 71.2,
+    "Stack": 549,
+    "Reach": 377
+  },
+  {
+    "ID": 68,
+    "Model": "Topstone",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "MD",
+    "HTA": 71.2,
+    "Stack": 579,
+    "Reach": 385
+  },
+  {
+    "ID": 69,
+    "Model": "Topstone",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "LG",
+    "HTA": 71.2,
+    "Stack": 610,
+    "Reach": 394
+  },
+  {
+    "ID": 70,
+    "Model": "Topstone",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 71.2,
+    "Stack": 640,
+    "Reach": 402
+  },
+  {
+    "ID": 71,
+    "Model": "SuperSix",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 70.9,
+    "Stack": 504,
+    "Reach": 370
+  },
+  {
+    "ID": 72,
+    "Model": "SuperSix",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 71.2,
+    "Stack": 519,
+    "Reach": 374
+  },
+  {
+    "ID": 73,
+    "Model": "SuperSix",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71.2,
+    "Stack": 534,
+    "Reach": 378
+  },
+  {
+    "ID": 74,
+    "Model": "SuperSix",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71.2,
+    "Stack": 554,
+    "Reach": 384
+  },
+  {
+    "ID": 75,
+    "Model": "SuperSix",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73,
+    "Stack": 574,
+    "Reach": 390
+  },
+  {
+    "ID": 76,
+    "Model": "SuperSix",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73,
+    "Stack": 594,
+    "Reach": 395
+  },
+  {
+    "ID": 77,
+    "Model": "SuperSix",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 73,
+    "Stack": 614,
+    "Reach": 400
+  },
+  {
+    "ID": 78,
+    "Model": "SuperSix",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:62",
+    "HTA": 73,
+    "Stack": 634,
+    "Reach": 406
+  },
+  {
+    "ID": 79,
+    "Model": "SuperX",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:46",
+    "HTA": 70,
+    "Stack": 515,
+    "Reach": 365
+  },
+  {
+    "ID": 80,
+    "Model": "SuperX",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71,
+    "Stack": 535,
+    "Reach": 371
+  },
+  {
+    "ID": 81,
+    "Model": "SuperX",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71,
+    "Stack": 555,
+    "Reach": 378
+  },
+  {
+    "ID": 82,
+    "Model": "SuperX",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 71,
+    "Stack": 575,
+    "Reach": 385
+  },
+  {
+    "ID": 83,
+    "Model": "SuperX",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 71,
+    "Stack": 595,
+    "Reach": 392
+  },
+  {
+    "ID": 84,
+    "Model": "SuperX",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 71,
+    "Stack": 615,
+    "Reach": 398
+  },
+  {
+    "ID": 85,
+    "Model": "SuperX Wmn's",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:46",
+    "HTA": 70,
+    "Stack": 515,
+    "Reach": 365
+  },
+  {
+    "ID": 86,
+    "Model": "SuperX Wmn's",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71,
+    "Stack": 535,
+    "Reach": 371
+  },
+  {
+    "ID": 87,
+    "Model": "SuperX Wmn's",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71,
+    "Stack": 555,
+    "Reach": 378
+  },
+  {
+    "ID": 88,
+    "Model": "SuperX GRX",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:46",
+    "HTA": 70,
+    "Stack": 515,
+    "Reach": 365
+  },
+  {
+    "ID": 89,
+    "Model": "SuperX GRX",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71,
+    "Stack": 535,
+    "Reach": 371
+  },
+  {
+    "ID": 90,
+    "Model": "SuperX GRX",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71,
+    "Stack": 555,
+    "Reach": 378
+  },
+  {
+    "ID": 91,
+    "Model": "SuperX GRX",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 71,
+    "Stack": 575,
+    "Reach": 385
+  },
+  {
+    "ID": 92,
+    "Model": "SuperX GRX",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 71,
+    "Stack": 595,
+    "Reach": 392
+  },
+  {
+    "ID": 93,
+    "Model": "Synapse Carb Flat Bar",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "MD",
+    "HTA": 71.7,
+    "Stack": 570,
+    "Reach": 382
+  },
+  {
+    "ID": 94,
+    "Model": "Synapse Carb Flat Bar",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "LG",
+    "HTA": 73,
+    "Stack": 590,
+    "Reach": 386
+  },
+  {
+    "ID": 95,
+    "Model": "Synapse Carb Flat Bar",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 73,
+    "Stack": 610,
+    "Reach": 393
+  },
+  {
+    "ID": 96,
+    "Model": "CAADX 105",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 70,
+    "Stack": 515,
+    "Reach": 365
+  },
+  {
+    "ID": 97,
+    "Model": "CAADX 105",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71,
+    "Stack": 545,
+    "Reach": 371
+  },
+  {
+    "ID": 98,
+    "Model": "CAADX 105",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71,
+    "Stack": 555,
+    "Reach": 373
+  },
+  {
+    "ID": 99,
+    "Model": "CAADX 105",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 71,
+    "Stack": 575,
+    "Reach": 385
+  },
+  {
+    "ID": 100,
+    "Model": "CAADX 105",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 71,
+    "Stack": 595,
+    "Reach": 394
+  },
+  {
+    "ID": 101,
+    "Model": "CAADX 105",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 71,
+    "Stack": 615,
+    "Reach": 398
+  },
+  {
+    "ID": 102,
+    "Model": "CAAD Optimo",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 70.5,
+    "Stack": 514,
+    "Reach": 372
+  },
+  {
+    "ID": 103,
+    "Model": "CAAD Optimo",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 71.5,
+    "Stack": 518,
+    "Reach": 369
+  },
+  {
+    "ID": 104,
+    "Model": "CAAD Optimo",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 72.3,
+    "Stack": 533,
+    "Reach": 378
+  },
+  {
+    "ID": 105,
+    "Model": "CAAD Optimo",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 72.9,
+    "Stack": 551,
+    "Reach": 387
+  },
+  {
+    "ID": 106,
+    "Model": "CAAD Optimo",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73.1,
+    "Stack": 566,
+    "Reach": 393
+  },
+  {
+    "ID": 107,
+    "Model": "CAAD Optimo",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73.2,
+    "Stack": 583,
+    "Reach": 399
+  },
+  {
+    "ID": 108,
+    "Model": "CAAD Optimo",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 73.3,
+    "Stack": 603,
+    "Reach": 405
+  },
+  {
+    "ID": 109,
+    "Model": "CAAD Optimo",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:63",
+    "HTA": 73.4,
+    "Stack": 626,
+    "Reach": 411
+  },
+  {
+    "ID": 110,
+    "Model": "Venge",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:49",
+    "HTA": 71.75,
+    "Stack": 504,
+    "Reach": 378
+  },
+  {
+    "ID": 111,
+    "Model": "Venge",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:52",
+    "HTA": 72.5,
+    "Stack": 517,
+    "Reach": 383
+  },
+  {
+    "ID": 112,
+    "Model": "Venge",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 73,
+    "Stack": 534,
+    "Reach": 387
+  },
+  {
+    "ID": 113,
+    "Model": "Venge",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73.5,
+    "Stack": 555,
+    "Reach": 398
+  },
+  {
+    "ID": 114,
+    "Model": "Venge",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73.5,
+    "Stack": 581,
+    "Reach": 405
+  },
+  {
+    "ID": 115,
+    "Model": "Venge",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 74,
+    "Stack": 602,
+    "Reach": 411
+  },
+  {
+    "ID": 116,
+    "Model": "Tarmac SL7",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 70.5,
+    "Stack": 491,
+    "Reach": 369
+  },
+  {
+    "ID": 117,
+    "Model": "Tarmac SL7",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:49",
+    "HTA": 71.75,
+    "Stack": 504,
+    "Reach": 378
+  },
+  {
+    "ID": 118,
+    "Model": "Tarmac SL7",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:52",
+    "HTA": 72.5,
+    "Stack": 517,
+    "Reach": 383
+  },
+  {
+    "ID": 119,
+    "Model": "Tarmac SL7",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 73,
+    "Stack": 534,
+    "Reach": 387
+  },
+  {
+    "ID": 120,
+    "Model": "Tarmac SL7",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73.5,
+    "Stack": 555,
+    "Reach": 398
+  },
+  {
+    "ID": 121,
+    "Model": "Tarmac SL7",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73.5,
+    "Stack": 581,
+    "Reach": 405
+  },
+  {
+    "ID": 122,
+    "Model": "Tarmac SL7",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 74,
+    "Stack": 602,
+    "Reach": 411
+  },
+  {
+    "ID": 123,
+    "Model": "CruX",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:46",
+    "HTA": "69.5°",
+    "Stack": 523,
+    "Reach": 366
+  },
+  {
+    "ID": 124,
+    "Model": "CruX",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:49",
+    "HTA": "70.5°",
+    "Stack": 540,
+    "Reach": 369
+  },
+  {
+    "ID": 125,
+    "Model": "CruX",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:52",
+    "HTA": "71.5°",
+    "Stack": 554,
+    "Reach": 375
+  },
+  {
+    "ID": 126,
+    "Model": "CruX",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": "71.5°",
+    "Stack": 566,
+    "Reach": 382
+  },
+  {
+    "ID": 127,
+    "Model": "CruX",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": "72°",
+    "Stack": 582,
+    "Reach": 388
+  },
+  {
+    "ID": 128,
+    "Model": "CruX",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": "72.5°",
+    "Stack": 597,
+    "Reach": 395
+  },
+  {
+    "ID": 129,
+    "Model": "CruX",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": "73°",
+    "Stack": 618,
+    "Reach": 402
+  },
+  {
+    "ID": 130,
+    "Model": "520 Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 69.5,
+    "Stack": 540,
+    "Reach": 368
+  },
+  {
+    "ID": 131,
+    "Model": "520 Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 70,
+    "Stack": 551,
+    "Reach": 373
+  },
+  {
+    "ID": 132,
+    "Model": "520 Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71,
+    "Stack": 565,
+    "Reach": 378
+  },
+  {
+    "ID": 133,
+    "Model": "520 Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:57",
+    "HTA": 71.8,
+    "Stack": 587,
+    "Reach": 383
+  },
+  {
+    "ID": 134,
+    "Model": "520 Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 71.8,
+    "Stack": 625,
+    "Reach": 392
+  },
+  {
+    "ID": 135,
+    "Model": "520 Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:63",
+    "HTA": 72.3,
+    "Stack": 655,
+    "Reach": 400
+  },
+  {
+    "ID": 136,
+    "Model": 920,
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:49",
+    "HTA": 70,
+    "Stack": 556,
+    "Reach": 385
+  },
+  {
+    "ID": 137,
+    "Model": 920,
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:52",
+    "HTA": 70.5,
+    "Stack": 567,
+    "Reach": 388
+  },
+  {
+    "ID": 138,
+    "Model": 920,
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71,
+    "Stack": 583,
+    "Reach": 392
+  },
+  {
+    "ID": 139,
+    "Model": 920,
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 71.3,
+    "Stack": 608,
+    "Reach": 395
+  },
+  {
+    "ID": 140,
+    "Model": 920,
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 71.3,
+    "Stack": 627,
+    "Reach": 402
+  },
+  {
+    "ID": 141,
+    "Model": 920,
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 71.5,
+    "Stack": 642,
+    "Reach": 405
+  },
+  {
+    "ID": 142,
+    "Model": "Émonda ALR",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:47",
+    "HTA": 71.2,
+    "Stack": 522,
+    "Reach": 369
+  },
+  {
+    "ID": 143,
+    "Model": "Émonda ALR",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:50",
+    "HTA": 72.1,
+    "Stack": 535,
+    "Reach": 374
+  },
+  {
+    "ID": 144,
+    "Model": "Émonda ALR",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:52",
+    "HTA": 72.8,
+    "Stack": 547,
+    "Reach": 379
+  },
+  {
+    "ID": 145,
+    "Model": "Émonda ALR",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:54",
+    "HTA": 73,
+    "Stack": 555,
+    "Reach": 381
+  },
+  {
+    "ID": 146,
+    "Model": "Émonda ALR",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:56",
+    "HTA": 73.5,
+    "Stack": 577,
+    "Reach": 387
+  },
+  {
+    "ID": 147,
+    "Model": "Émonda ALR",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:58",
+    "HTA": 73.8,
+    "Stack": 596,
+    "Reach": 391
+  },
+  {
+    "ID": 148,
+    "Model": "Émonda ALR",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:60",
+    "HTA": 73.9,
+    "Stack": 615,
+    "Reach": 395
+  },
+  {
+    "ID": 149,
+    "Model": "Émonda ALR",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:62",
+    "HTA": 73.9,
+    "Stack": 634,
+    "Reach": 398
+  },
+  {
+    "ID": 150,
+    "Model": "Émonda SL",
+    "Brand": "Trek",
+    "Year": 2019,
+    "Size": "Sz:44",
+    "HTA": 70.4,
+    "Stack": 499,
+    "Reach": 362
+  },
+  {
+    "ID": 151,
+    "Model": "Émonda SL",
+    "Brand": "Trek",
+    "Year": 2019,
+    "Size": "Sz:47",
+    "HTA": 71.2,
+    "Stack": 522,
+    "Reach": 369
+  },
+  {
+    "ID": 152,
+    "Model": "Émonda SL",
+    "Brand": "Trek",
+    "Year": 2019,
+    "Size": "Sz:50",
+    "HTA": 70.4,
+    "Stack": 535,
+    "Reach": 374
+  },
+  {
+    "ID": 153,
+    "Model": "Émonda SL",
+    "Brand": "Trek",
+    "Year": 2019,
+    "Size": "Sz:52",
+    "HTA": 72.1,
+    "Stack": 547,
+    "Reach": 379
+  },
+  {
+    "ID": 154,
+    "Model": "Émonda SL",
+    "Brand": "Trek",
+    "Year": 2019,
+    "Size": "Sz:54",
+    "HTA": 72.8,
+    "Stack": 555,
+    "Reach": 381
+  },
+  {
+    "ID": 155,
+    "Model": "Émonda SL",
+    "Brand": "Trek",
+    "Year": 2019,
+    "Size": "Sz:56",
+    "HTA": 73,
+    "Stack": 577,
+    "Reach": 387
+  },
+  {
+    "ID": 156,
+    "Model": "Émonda SL",
+    "Brand": "Trek",
+    "Year": 2019,
+    "Size": "Sz:58",
+    "HTA": 73.8,
+    "Stack": 596,
+    "Reach": 391
+  },
+  {
+    "ID": 157,
+    "Model": "Émonda SL",
+    "Brand": "Trek",
+    "Year": 2019,
+    "Size": "Sz:60",
+    "HTA": 73.9,
+    "Stack": 615,
+    "Reach": 395
+  },
+  {
+    "ID": 158,
+    "Model": "Émonda SL",
+    "Brand": "Trek",
+    "Year": 2019,
+    "Size": "Sz:62",
+    "HTA": 73.9,
+    "Stack": 634,
+    "Reach": 398
+  },
+  {
+    "ID": 159,
+    "Model": "Émonda SL",
+    "Brand": "Trek",
+    "Year": 2019,
+    "Size": "Sz:64",
+    "HTA": 74,
+    "Stack": 654,
+    "Reach": 401
+  },
+  {
+    "ID": 160,
+    "Model": "Crockett Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:47",
+    "HTA": 70.8,
+    "Stack": 519,
+    "Reach": 371
+  },
+  {
+    "ID": 161,
+    "Model": "Crockett Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:50",
+    "HTA": 71,
+    "Stack": 534,
+    "Reach": 375
+  },
+  {
+    "ID": 162,
+    "Model": "Crockett Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:52",
+    "HTA": 71.5,
+    "Stack": 547,
+    "Reach": 379
+  },
+  {
+    "ID": 163,
+    "Model": "Crockett Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 72,
+    "Stack": 562,
+    "Reach": 383
+  },
+  {
+    "ID": 164,
+    "Model": "Crockett Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 72,
+    "Stack": 580,
+    "Reach": 387
+  },
+  {
+    "ID": 165,
+    "Model": "Crockett Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 72.3,
+    "Stack": 597,
+    "Reach": 391
+  },
+  {
+    "ID": 166,
+    "Model": "Crockett Disc",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 72.3,
+    "Stack": 624,
+    "Reach": 397
+  },
+  {
+    "ID": 167,
+    "Model": "Checkpoint ALR",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:49",
+    "HTA": 71.4,
+    "Stack": 532,
+    "Reach": 373
+  },
+  {
+    "ID": 168,
+    "Model": "Checkpoint ALR",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:52",
+    "HTA": 71.6,
+    "Stack": 549,
+    "Reach": 379
+  },
+  {
+    "ID": 169,
+    "Model": "Checkpoint ALR",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71.8,
+    "Stack": 567,
+    "Reach": 383
+  },
+  {
+    "ID": 170,
+    "Model": "Checkpoint ALR",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 72.2,
+    "Stack": 586,
+    "Reach": 387
+  },
+  {
+    "ID": 171,
+    "Model": "Checkpoint ALR",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 72.3,
+    "Stack": 609,
+    "Reach": 391
+  },
+  {
+    "ID": 172,
+    "Model": "Checkpoint ALR",
+    "Brand": "Trek",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 72.6,
+    "Stack": 638,
+    "Reach": 397
+  },
+  {
+    "ID": 173,
+    "Model": "Madone SL",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:50",
+    "HTA": 72.1,
+    "Stack": 521,
+    "Reach": 378
+  },
+  {
+    "ID": 174,
+    "Model": "Madone SL",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:52",
+    "HTA": 72.8,
+    "Stack": 533,
+    "Reach": 383
+  },
+  {
+    "ID": 175,
+    "Model": "Madone SL",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:54",
+    "HTA": 73,
+    "Stack": 541,
+    "Reach": 386
+  },
+  {
+    "ID": 176,
+    "Model": "Madone SL",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:56",
+    "HTA": 73.5,
+    "Stack": 563,
+    "Reach": 391
+  },
+  {
+    "ID": 177,
+    "Model": "Madone SL",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:58",
+    "HTA": 73.8,
+    "Stack": 581,
+    "Reach": 396
+  },
+  {
+    "ID": 178,
+    "Model": "Madone SL",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:60",
+    "HTA": 73.9,
+    "Stack": 601,
+    "Reach": 399
+  },
+  {
+    "ID": 179,
+    "Model": "Madone SL",
+    "Brand": "Trek",
+    "Year": 2021,
+    "Size": "Sz:62",
+    "HTA": 73.9,
+    "Stack": 620,
+    "Reach": 403
+  },
+  {
+    "ID": 180,
+    "Model": "CFSLX9",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "3XS",
+    "HTA": 70.2,
+    "Stack": 487,
+    "Reach": 357
+  },
+  {
+    "ID": 181,
+    "Model": "CFSLX9",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XS",
+    "HTA": 71.5,
+    "Stack": 510,
+    "Reach": 371
+  },
+  {
+    "ID": 182,
+    "Model": "CFSLX9",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71,
+    "Stack": 527,
+    "Reach": 376
+  },
+  {
+    "ID": 183,
+    "Model": "CFSLX9",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 72.25,
+    "Stack": 547,
+    "Reach": 388
+  },
+  {
+    "ID": 184,
+    "Model": "CFSLX9",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 72.5,
+    "Stack": 572,
+    "Reach": 393
+  },
+  {
+    "ID": 185,
+    "Model": "CFSLX9",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 72.5,
+    "Stack": 593,
+    "Reach": 402
+  },
+  {
+    "ID": 186,
+    "Model": "CFSLX9",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 72.7,
+    "Stack": 616,
+    "Reach": 418
+  },
+  {
+    "ID": 187,
+    "Model": "CFSLX9",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XL",
+    "HTA": 72.7,
+    "Stack": 637,
+    "Reach": 428
+  },
+  {
+    "ID": 188,
+    "Model": "Endurance Wmn AL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "3XS",
+    "HTA": 70,
+    "Stack": 502,
+    "Reach": 347
+  },
+  {
+    "ID": 189,
+    "Model": "Endurance Wmn AL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XS",
+    "HTA": 70.8,
+    "Stack": 524,
+    "Reach": 349
+  },
+  {
+    "ID": 190,
+    "Model": "Endurance Wmn AL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 70.3,
+    "Stack": 546,
+    "Reach": 359
+  },
+  {
+    "ID": 191,
+    "Model": "Endurance Wmn AL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 71.5,
+    "Stack": 570,
+    "Reach": 369
+  },
+  {
+    "ID": 192,
+    "Model": "Endurance Wmn AL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 72.5,
+    "Stack": 593,
+    "Reach": 378
+  },
+  {
+    "ID": 193,
+    "Model": "Endurace AL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XS",
+    "HTA": 69.2,
+    "Stack": 518,
+    "Reach": 366
+  },
+  {
+    "ID": 194,
+    "Model": "Endurace AL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71,
+    "Stack": 541,
+    "Reach": 375
+  },
+  {
+    "ID": 195,
+    "Model": "Endurace AL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 72,
+    "Stack": 565,
+    "Reach": 379
+  },
+  {
+    "ID": 196,
+    "Model": "Endurace AL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 73,
+    "Stack": 587,
+    "Reach": 383
+  },
+  {
+    "ID": 197,
+    "Model": "Endurace AL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 73,
+    "Stack": 612,
+    "Reach": 389
+  },
+  {
+    "ID": 198,
+    "Model": "Endurace AL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 73.3,
+    "Stack": 634,
+    "Reach": 407
+  },
+  {
+    "ID": 199,
+    "Model": "Endurace AL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XL",
+    "HTA": 73.3,
+    "Stack": 652,
+    "Reach": 417
+  },
+  {
+    "ID": 200,
+    "Model": "Ultimate Evo Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XS",
+    "HTA": 69.6,
+    "Stack": 500,
+    "Reach": 368
+  },
+  {
+    "ID": 201,
+    "Model": "Ultimate Evo Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71,
+    "Stack": 522,
+    "Reach": 378
+  },
+  {
+    "ID": 202,
+    "Model": "Ultimate Evo Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 72.25,
+    "Stack": 546,
+    "Reach": 385
+  },
+  {
+    "ID": 203,
+    "Model": "Ultimate Evo Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 73.25,
+    "Stack": 567,
+    "Reach": 391
+  },
+  {
+    "ID": 204,
+    "Model": "Ultimate Evo Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 73.25,
+    "Stack": 592,
+    "Reach": 399
+  },
+  {
+    "ID": 205,
+    "Model": "Ultimate Evo Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 73.5,
+    "Stack": 613,
+    "Reach": 418
+  },
+  {
+    "ID": 206,
+    "Model": "Ultimate Evo Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XL",
+    "HTA": 73.75,
+    "Stack": 631,
+    "Reach": 428
+  },
+  {
+    "ID": 207,
+    "Model": "Grail CFSLX Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XS",
+    "HTA": 70.25,
+    "Stack": 594,
+    "Reach": 384
+  },
+  {
+    "ID": 208,
+    "Model": "Grail CFSLX Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71.25,
+    "Stack": 615,
+    "Reach": 422
+  },
+  {
+    "ID": 209,
+    "Model": "Grail CFSLX Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 71,
+    "Stack": 638,
+    "Reach": 439
+  },
+  {
+    "ID": 210,
+    "Model": "Grail CFSLX Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 72.5,
+    "Stack": 660,
+    "Reach": 458
+  },
+  {
+    "ID": 211,
+    "Model": "Grail CFSLX Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 72.5,
+    "Stack": 687,
+    "Reach": 475
+  },
+  {
+    "ID": 212,
+    "Model": "Grail CFSLX Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 72.75,
+    "Stack": 708,
+    "Reach": 494
+  },
+  {
+    "ID": 213,
+    "Model": "Grail CFSLX Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XL",
+    "HTA": 72.75,
+    "Stack": 728,
+    "Reach": 513
+  },
+  {
+    "ID": 214,
+    "Model": "Inflite CF SL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "3XS",
+    "HTA": 70.2,
+    "Stack": 487,
+    "Reach": 357
+  },
+  {
+    "ID": 215,
+    "Model": "Inflite CF SL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XS",
+    "HTA": 71.5,
+    "Stack": 510,
+    "Reach": 371
+  },
+  {
+    "ID": 216,
+    "Model": "Inflite CF SL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71,
+    "Stack": 527,
+    "Reach": 376
+  },
+  {
+    "ID": 217,
+    "Model": "Inflite CF SL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 72.25,
+    "Stack": 547,
+    "Reach": 388
+  },
+  {
+    "ID": 218,
+    "Model": "Inflite CF SL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 72.5,
+    "Stack": 572,
+    "Reach": 393
+  },
+  {
+    "ID": 219,
+    "Model": "Inflite CF SL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 72.5,
+    "Stack": 593,
+    "Reach": 402
+  },
+  {
+    "ID": 220,
+    "Model": "Inflite CF SL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 72.7,
+    "Stack": 616,
+    "Reach": 418
+  },
+  {
+    "ID": 221,
+    "Model": "Inflite CF SL Disc",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XL",
+    "HTA": 72.7,
+    "Stack": 637,
+    "Reach": 428
+  },
+  {
+    "ID": 222,
+    "Model": "TCR Advanced SL",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "XS",
+    "HTA": 71,
+    "Stack": 517,
+    "Reach": 376
+  },
+  {
+    "ID": 223,
+    "Model": "TCR Advanced SL",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "S",
+    "HTA": 72.3,
+    "Stack": 528,
+    "Reach": 383
+  },
+  {
+    "ID": 224,
+    "Model": "TCR Advanced SL",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "M",
+    "HTA": 73,
+    "Stack": 545,
+    "Reach": 388
+  },
+  {
+    "ID": 225,
+    "Model": "TCR Advanced SL",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "ML",
+    "HTA": 73,
+    "Stack": 562,
+    "Reach": 393
+  },
+  {
+    "ID": 226,
+    "Model": "TCR Advanced SL",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "L",
+    "HTA": 73,
+    "Stack": 581,
+    "Reach": 402
+  },
+  {
+    "ID": 227,
+    "Model": "TCR Advanced SL",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "XL",
+    "HTA": 73,
+    "Stack": 596,
+    "Reach": 412
+  },
+  {
+    "ID": 228,
+    "Model": "Contend AR 1",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "XS",
+    "HTA": 71.5,
+    "Stack": 539,
+    "Reach": 371
+  },
+  {
+    "ID": 229,
+    "Model": "Contend AR 1",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "S",
+    "HTA": 71.8,
+    "Stack": 559,
+    "Reach": 375
+  },
+  {
+    "ID": 230,
+    "Model": "Contend AR 1",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "M",
+    "HTA": 72,
+    "Stack": 574,
+    "Reach": 380
+  },
+  {
+    "ID": 231,
+    "Model": "Contend AR 1",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "ML",
+    "HTA": 72.5,
+    "Stack": 595,
+    "Reach": 383
+  },
+  {
+    "ID": 232,
+    "Model": "Contend AR 1",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "L",
+    "HTA": 72.5,
+    "Stack": 614,
+    "Reach": 392
+  },
+  {
+    "ID": 233,
+    "Model": "Contend AR 1",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "XL",
+    "HTA": 72.5,
+    "Stack": 638,
+    "Reach": 400
+  },
+  {
+    "ID": 234,
+    "Model": "Fastroad SL3",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "S",
+    "HTA": 71.5,
+    "Stack": 537,
+    "Reach": 386
+  },
+  {
+    "ID": 235,
+    "Model": "Fastroad SL3",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "M",
+    "HTA": 72,
+    "Stack": 563,
+    "Reach": 388
+  },
+  {
+    "ID": 236,
+    "Model": "Fastroad SL3",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "ML",
+    "HTA": 72,
+    "Stack": 586,
+    "Reach": 395
+  },
+  {
+    "ID": 237,
+    "Model": "Fastroad SL3",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "L",
+    "HTA": 72.5,
+    "Stack": 607,
+    "Reach": 403
+  },
+  {
+    "ID": 238,
+    "Model": "Fastroad SL3",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "XL",
+    "HTA": 72.5,
+    "Stack": 631,
+    "Reach": 416
+  },
+  {
+    "ID": 239,
+    "Model": "TCX Adv Pro",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 71,
+    "Stack": 540,
+    "Reach": 370
+  },
+  {
+    "ID": 240,
+    "Model": "TCX Adv Pro",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 71.5,
+    "Stack": 556,
+    "Reach": 375
+  },
+  {
+    "ID": 241,
+    "Model": "TCX Adv Pro",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "ML",
+    "HTA": 72,
+    "Stack": 572,
+    "Reach": 385
+  },
+  {
+    "ID": 242,
+    "Model": "TCX Adv Pro",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 72.5,
+    "Stack": 589,
+    "Reach": 395
+  },
+  {
+    "ID": 243,
+    "Model": "TCX Adv Pro",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 72.5,
+    "Stack": 603,
+    "Reach": 406
+  },
+  {
+    "ID": 244,
+    "Model": "Propel Adv Pro Disc",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71,
+    "Stack": 517,
+    "Reach": 372
+  },
+  {
+    "ID": 245,
+    "Model": "Propel Adv Pro Disc",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 72.5,
+    "Stack": 529,
+    "Reach": 378
+  },
+  {
+    "ID": 246,
+    "Model": "Propel Adv Pro Disc",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 73,
+    "Stack": 545,
+    "Reach": 383
+  },
+  {
+    "ID": 247,
+    "Model": "Propel Adv Pro Disc",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "ML",
+    "HTA": 73,
+    "Stack": 562,
+    "Reach": 398
+  },
+  {
+    "ID": 248,
+    "Model": "Propel Adv Pro Disc",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 73,
+    "Stack": 581,
+    "Reach": 402
+  },
+  {
+    "ID": 249,
+    "Model": "Propel Adv Pro Disc",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 73,
+    "Stack": 595,
+    "Reach": 412
+  },
+  {
+    "ID": 250,
+    "Model": "Escape 1 Disc",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 70,
+    "Stack": 538,
+    "Reach": 406
+  },
+  {
+    "ID": 251,
+    "Model": "Escape 1 Disc",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 71,
+    "Stack": 556,
+    "Reach": 410
+  },
+  {
+    "ID": 252,
+    "Model": "Escape 1 Disc",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 71,
+    "Stack": 585,
+    "Reach": 416
+  },
+  {
+    "ID": 253,
+    "Model": "Escape 1 Disc",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 71,
+    "Stack": 613,
+    "Reach": 423
+  },
+  {
+    "ID": 254,
+    "Model": "Escape 1 Disc",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 69.5,
+    "Stack": 606,
+    "Reach": 376
+  },
+  {
+    "ID": 255,
+    "Model": "Escape 1 Disc",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 69.5,
+    "Stack": 606,
+    "Reach": 390
+  },
+  {
+    "ID": 256,
+    "Model": "Cypress DX",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 69.5,
+    "Stack": 620,
+    "Reach": 401
+  },
+  {
+    "ID": 257,
+    "Model": "Cypress DX",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 69.5,
+    "Stack": 639,
+    "Reach": 411
+  },
+  {
+    "ID": 258,
+    "Model": "Cypress DX",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 69.5,
+    "Stack": 653,
+    "Reach": 421
+  },
+  {
+    "ID": 259,
+    "Model": "Revolt Adv Pro",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "XS",
+    "HTA": 70.5,
+    "Stack": 548,
+    "Reach": 373
+  },
+  {
+    "ID": 260,
+    "Model": "Revolt Adv Pro",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "S",
+    "HTA": 70.5,
+    "Stack": 558,
+    "Reach": 375
+  },
+  {
+    "ID": 261,
+    "Model": "Revolt Adv Pro",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "M",
+    "HTA": 70.5,
+    "Stack": 572,
+    "Reach": 381
+  },
+  {
+    "ID": 262,
+    "Model": "Revolt Adv Pro",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "ML",
+    "HTA": 71,
+    "Stack": 588,
+    "Reach": 385
+  },
+  {
+    "ID": 263,
+    "Model": "Revolt Adv Pro",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "L",
+    "HTA": 71,
+    "Stack": 602,
+    "Reach": 391
+  },
+  {
+    "ID": 264,
+    "Model": "Revolt Adv Pro",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "XL",
+    "HTA": 71,
+    "Stack": 616,
+    "Reach": 402
+  },
+  {
+    "ID": 265,
+    "Model": "Revolt 2",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "XS",
+    "HTA": 70.5,
+    "Stack": 548,
+    "Reach": 373
+  },
+  {
+    "ID": 266,
+    "Model": "Revolt 2",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "S",
+    "HTA": 70.5,
+    "Stack": 558,
+    "Reach": 375
+  },
+  {
+    "ID": 267,
+    "Model": "Revolt 2",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "M",
+    "HTA": 70.5,
+    "Stack": 572,
+    "Reach": 381
+  },
+  {
+    "ID": 268,
+    "Model": "Revolt 2",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "ML",
+    "HTA": 71,
+    "Stack": 588,
+    "Reach": 385
+  },
+  {
+    "ID": 269,
+    "Model": "Revolt 2",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "L",
+    "HTA": 71,
+    "Stack": 601,
+    "Reach": 391
+  },
+  {
+    "ID": 270,
+    "Model": "Revolt 2",
+    "Brand": "Giant",
+    "Year": 2021,
+    "Size": "XL",
+    "HTA": 71,
+    "Stack": 615,
+    "Reach": 402
+  },
+  {
+    "ID": 271,
+    "Model": "Gan",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:44",
+    "HTA": 70,
+    "Stack": 506,
+    "Reach": 354
+  },
+  {
+    "ID": 272,
+    "Model": "Gan",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:46.5",
+    "HTA": 70.5,
+    "Stack": 513,
+    "Reach": 367
+  },
+  {
+    "ID": 273,
+    "Model": "Gan",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:50",
+    "HTA": 71.4,
+    "Stack": 525,
+    "Reach": 370
+  },
+  {
+    "ID": 274,
+    "Model": "Gan",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:51.5",
+    "HTA": 72,
+    "Stack": 532,
+    "Reach": 378
+  },
+  {
+    "ID": 275,
+    "Model": "Gan",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:53",
+    "HTA": 72.5,
+    "Stack": 543,
+    "Reach": 386
+  },
+  {
+    "ID": 276,
+    "Model": "Gan",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:54",
+    "HTA": 72.8,
+    "Stack": 556,
+    "Reach": 384
+  },
+  {
+    "ID": 277,
+    "Model": "Gan",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:55",
+    "HTA": 72.8,
+    "Stack": 567,
+    "Reach": 387
+  },
+  {
+    "ID": 278,
+    "Model": "Gan",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:56",
+    "HTA": 73.2,
+    "Stack": 575,
+    "Reach": 390
+  },
+  {
+    "ID": 279,
+    "Model": "Gan",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:57.5",
+    "HTA": 73.7,
+    "Stack": 590,
+    "Reach": 395
+  },
+  {
+    "ID": 280,
+    "Model": "Gan",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:59.5",
+    "HTA": 73.4,
+    "Stack": 609,
+    "Reach": 395
+  },
+  {
+    "ID": 281,
+    "Model": "Gan",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:62",
+    "HTA": 73.4,
+    "Stack": 651,
+    "Reach": 410
+  },
+  {
+    "ID": 282,
+    "Model": "Grevil+",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:44",
+    "HTA": 69.5,
+    "Stack": 519,
+    "Reach": 353
+  },
+  {
+    "ID": 283,
+    "Model": "Grevil+",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:47",
+    "HTA": 70,
+    "Stack": 525,
+    "Reach": 359
+  },
+  {
+    "ID": 284,
+    "Model": "Grevil+",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:50",
+    "HTA": 70.5,
+    "Stack": 537,
+    "Reach": 368
+  },
+  {
+    "ID": 285,
+    "Model": "Grevil+",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:53",
+    "HTA": 71,
+    "Stack": 553,
+    "Reach": 374
+  },
+  {
+    "ID": 286,
+    "Model": "Grevil+",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:56",
+    "HTA": 72,
+    "Stack": 580,
+    "Reach": 386
+  },
+  {
+    "ID": 287,
+    "Model": "Grevil+",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:59",
+    "HTA": 72.5,
+    "Stack": 611,
+    "Reach": 402
+  },
+  {
+    "ID": 288,
+    "Model": "Paris",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:43",
+    "HTA": 70,
+    "Stack": 512.4,
+    "Reach": 347.4
+  },
+  {
+    "ID": 289,
+    "Model": "Paris",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:46",
+    "HTA": 70.5,
+    "Stack": 524,
+    "Reach": 357.5
+  },
+  {
+    "ID": 290,
+    "Model": "Paris",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:49",
+    "HTA": 71,
+    "Stack": 537.2,
+    "Reach": 367.2
+  },
+  {
+    "ID": 291,
+    "Model": "Paris",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:51",
+    "HTA": 71.5,
+    "Stack": 549.2,
+    "Reach": 373.6
+  },
+  {
+    "ID": 292,
+    "Model": "Paris",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:53",
+    "HTA": 72,
+    "Stack": 560.5,
+    "Reach": 377.5
+  },
+  {
+    "ID": 293,
+    "Model": "Paris",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:54.5",
+    "HTA": 72.25,
+    "Stack": 572.8,
+    "Reach": 381.6
+  },
+  {
+    "ID": 294,
+    "Model": "Paris",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:56",
+    "HTA": 72.5,
+    "Stack": 587.1,
+    "Reach": 385
+  },
+  {
+    "ID": 295,
+    "Model": "Paris",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:58",
+    "HTA": 72.5,
+    "Stack": 605,
+    "Reach": 388.9
+  },
+  {
+    "ID": 296,
+    "Model": "Paris",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:60",
+    "HTA": 72.5,
+    "Stack": 625,
+    "Reach": 392.9
+  },
+  {
+    "ID": 297,
+    "Model": "Prince",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:43",
+    "HTA": 71,
+    "Stack": 513,
+    "Reach": 356
+  },
+  {
+    "ID": 298,
+    "Model": "Prince",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:46",
+    "HTA": 71.75,
+    "Stack": 523,
+    "Reach": 364
+  },
+  {
+    "ID": 299,
+    "Model": "Prince",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:49",
+    "HTA": 72.25,
+    "Stack": 532,
+    "Reach": 370
+  },
+  {
+    "ID": 300,
+    "Model": "Prince",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:51",
+    "HTA": 72.75,
+    "Stack": 543,
+    "Reach": 376
+  },
+  {
+    "ID": 301,
+    "Model": "Prince",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:53",
+    "HTA": 72.75,
+    "Stack": 554,
+    "Reach": 380
+  },
+  {
+    "ID": 302,
+    "Model": "Prince",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:54.5",
+    "HTA": 73,
+    "Stack": 570,
+    "Reach": 385
+  },
+  {
+    "ID": 303,
+    "Model": "Prince",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:56",
+    "HTA": 73,
+    "Stack": 586,
+    "Reach": 388
+  },
+  {
+    "ID": 304,
+    "Model": "Prince",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:58",
+    "HTA": 73.25,
+    "Stack": 606,
+    "Reach": 392
+  },
+  {
+    "ID": 305,
+    "Model": "Prince",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:60",
+    "HTA": 73.25,
+    "Stack": 642,
+    "Reach": 398
+  },
+  {
+    "ID": 306,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:42",
+    "HTA": 69.15,
+    "Stack": 498.3,
+    "Reach": 348.9
+  },
+  {
+    "ID": 307,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:44",
+    "HTA": 70,
+    "Stack": 506,
+    "Reach": 354.3
+  },
+  {
+    "ID": 308,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:46.5",
+    "HTA": 70.5,
+    "Stack": 517.6,
+    "Reach": 364.8
+  },
+  {
+    "ID": 309,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:47",
+    "HTA": 71.4,
+    "Stack": 530.2,
+    "Reach": 370.5
+  },
+  {
+    "ID": 310,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:50",
+    "HTA": 71.4,
+    "Stack": 525.4,
+    "Reach": 372.1
+  },
+  {
+    "ID": 311,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:51.5",
+    "HTA": 72,
+    "Stack": 532.3,
+    "Reach": 378
+  },
+  {
+    "ID": 312,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:53",
+    "HTA": 72.5,
+    "Stack": 542.6,
+    "Reach": 383.3
+  },
+  {
+    "ID": 313,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:54",
+    "HTA": 72.8,
+    "Stack": 551.2,
+    "Reach": 385
+  },
+  {
+    "ID": 314,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:55",
+    "HTA": 72.8,
+    "Stack": 561.6,
+    "Reach": 388.8
+  },
+  {
+    "ID": 315,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:56",
+    "HTA": 73.2,
+    "Stack": 570.2,
+    "Reach": 390.7
+  },
+  {
+    "ID": 316,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:57.5",
+    "HTA": 73.7,
+    "Stack": 584.8,
+    "Reach": 396.7
+  },
+  {
+    "ID": 317,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:59.5",
+    "HTA": 73.4,
+    "Stack": 613.3,
+    "Reach": 393.3
+  },
+  {
+    "ID": 318,
+    "Model": "Dogma F12",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:62",
+    "HTA": 73.4,
+    "Stack": 651.7,
+    "Reach": 410.1
+  },
+  {
+    "ID": 319,
+    "Model": "Razha",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:44",
+    "HTA": 70,
+    "Stack": 505,
+    "Reach": 355
+  },
+  {
+    "ID": 320,
+    "Model": "Razha",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:46.5",
+    "HTA": 70.5,
+    "Stack": 512,
+    "Reach": 367
+  },
+  {
+    "ID": 321,
+    "Model": "Razha",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:50",
+    "HTA": 71.4,
+    "Stack": 525,
+    "Reach": 372
+  },
+  {
+    "ID": 322,
+    "Model": "Razha",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:51.5",
+    "HTA": 72,
+    "Stack": 531,
+    "Reach": 378
+  },
+  {
+    "ID": 323,
+    "Model": "Razha",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:53",
+    "HTA": 72.5,
+    "Stack": 546,
+    "Reach": 384
+  },
+  {
+    "ID": 324,
+    "Model": "Razha",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:54",
+    "HTA": 72.8,
+    "Stack": 555,
+    "Reach": 384
+  },
+  {
+    "ID": 325,
+    "Model": "Razha",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:55",
+    "HTA": 72.8,
+    "Stack": 566,
+    "Reach": 388
+  },
+  {
+    "ID": 326,
+    "Model": "Razha",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:56",
+    "HTA": 73.2,
+    "Stack": 574,
+    "Reach": 390
+  },
+  {
+    "ID": 327,
+    "Model": "Razha",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:57.5",
+    "HTA": 73.7,
+    "Stack": 589,
+    "Reach": 396
+  },
+  {
+    "ID": 328,
+    "Model": "Razha",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:59.5",
+    "HTA": 73.4,
+    "Stack": 608,
+    "Reach": 395
+  },
+  {
+    "ID": 329,
+    "Model": "Angliru",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:43",
+    "HTA": 69.5,
+    "Stack": 512,
+    "Reach": 345
+  },
+  {
+    "ID": 330,
+    "Model": "Angliru",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:46",
+    "HTA": 70.5,
+    "Stack": 525,
+    "Reach": 357
+  },
+  {
+    "ID": 331,
+    "Model": "Angliru",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:49",
+    "HTA": 72,
+    "Stack": 540,
+    "Reach": 370
+  },
+  {
+    "ID": 332,
+    "Model": "Angliru",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:52",
+    "HTA": 73,
+    "Stack": 568,
+    "Reach": 371
+  },
+  {
+    "ID": 333,
+    "Model": "Angliru",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:53.5",
+    "HTA": 73,
+    "Stack": 582,
+    "Reach": 379
+  },
+  {
+    "ID": 334,
+    "Model": "Angliru",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:55",
+    "HTA": 73,
+    "Stack": 597,
+    "Reach": 388
+  },
+  {
+    "ID": 335,
+    "Model": "Angliru",
+    "Brand": "Pinarello",
+    "Year": 2021,
+    "Size": "Sz:57",
+    "HTA": 73,
+    "Stack": 621,
+    "Reach": 390
+  },
+  {
+    "ID": 336,
+    "Model": "Ogre",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "SM",
+    "HTA": 71.5,
+    "Stack": 592,
+    "Reach": 395.5
+  },
+  {
+    "ID": 337,
+    "Model": "Ogre",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "MD",
+    "HTA": 72,
+    "Stack": 603.4,
+    "Reach": 410.5
+  },
+  {
+    "ID": 338,
+    "Model": "Ogre",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "LG",
+    "HTA": 72,
+    "Stack": 613,
+    "Reach": 427.6
+  },
+  {
+    "ID": 339,
+    "Model": "Ogre",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 72,
+    "Stack": 632,
+    "Reach": 447
+  },
+  {
+    "ID": 340,
+    "Model": "Bridge Club",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 70,
+    "Stack": 553,
+    "Reach": 376
+  },
+  {
+    "ID": 341,
+    "Model": "Bridge Club",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "SM",
+    "HTA": 71,
+    "Stack": 567,
+    "Reach": 397
+  },
+  {
+    "ID": 342,
+    "Model": "Bridge Club",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "MD",
+    "HTA": 71,
+    "Stack": 576,
+    "Reach": 419
+  },
+  {
+    "ID": 343,
+    "Model": "Bridge Club",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "LG",
+    "HTA": 71,
+    "Stack": 590,
+    "Reach": 434.5
+  },
+  {
+    "ID": 344,
+    "Model": "Bridge Club",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 71,
+    "Stack": 609,
+    "Reach": 444
+  },
+  {
+    "ID": 345,
+    "Model": "Pack Rat",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:38",
+    "HTA": 72.5,
+    "Stack": 479,
+    "Reach": 377
+  },
+  {
+    "ID": 346,
+    "Model": "Pack Rat",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:42",
+    "HTA": 73,
+    "Stack": 495,
+    "Reach": 379
+  },
+  {
+    "ID": 347,
+    "Model": "Pack Rat",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz46",
+    "HTA": 74,
+    "Stack": 512,
+    "Reach": 386
+  },
+  {
+    "ID": 348,
+    "Model": "Pack Rat",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:50",
+    "HTA": 74,
+    "Stack": 527,
+    "Reach": 392
+  },
+  {
+    "ID": 349,
+    "Model": "Long Haul Trucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:42",
+    "HTA": 70,
+    "Stack": 497.2,
+    "Reach": 367.2
+  },
+  {
+    "ID": 350,
+    "Model": "Long Haul Trucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:46",
+    "HTA": 70,
+    "Stack": 502.9,
+    "Reach": 371.3
+  },
+  {
+    "ID": 351,
+    "Model": "Long Haul Trucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:50",
+    "HTA": 71,
+    "Stack": 532.3,
+    "Reach": 374.5
+  },
+  {
+    "ID": 352,
+    "Model": "Long Haul Trucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:52",
+    "HTA": 71,
+    "Stack": 550.3,
+    "Reach": 374.6
+  },
+  {
+    "ID": 353,
+    "Model": "Long Haul Trucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71,
+    "Stack": 568.3,
+    "Reach": 379.4
+  },
+  {
+    "ID": 354,
+    "Model": "Long Haul Trucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 71,
+    "Stack": 588.1,
+    "Reach": 388.3
+  },
+  {
+    "ID": 355,
+    "Model": "Long Haul Trucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 71,
+    "Stack": 606.1,
+    "Reach": 393.5
+  },
+  {
+    "ID": 356,
+    "Model": "Long Haul Trucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 71.5,
+    "Stack": 623.3,
+    "Reach": 402.5
+  },
+  {
+    "ID": 357,
+    "Model": "Long Haul Trucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:62",
+    "HTA": 71.5,
+    "Stack": 643.2,
+    "Reach": 400.5
+  },
+  {
+    "ID": 358,
+    "Model": "Cross-Check",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:42",
+    "HTA": 72,
+    "Stack": 528,
+    "Reach": 378.7
+  },
+  {
+    "ID": 359,
+    "Model": "Cross-Check",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:46",
+    "HTA": 72,
+    "Stack": 528,
+    "Reach": 380.8
+  },
+  {
+    "ID": 360,
+    "Model": "Cross-Check",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:50",
+    "HTA": 72,
+    "Stack": 528,
+    "Reach": 389.1
+  },
+  {
+    "ID": 361,
+    "Model": "Cross-Check",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:52",
+    "HTA": 72,
+    "Stack": 528,
+    "Reach": 389.7
+  },
+  {
+    "ID": 362,
+    "Model": "Cross-Check",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 72,
+    "Stack": 538.4,
+    "Reach": 394.8
+  },
+  {
+    "ID": 363,
+    "Model": "Cross-Check",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 72,
+    "Stack": 556.5,
+    "Reach": 394.3
+  },
+  {
+    "ID": 364,
+    "Model": "Cross-Check",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 72,
+    "Stack": 575.7,
+    "Reach": 398.3
+  },
+  {
+    "ID": 365,
+    "Model": "Cross-Check",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 72,
+    "Stack": 593.6,
+    "Reach": 407.3
+  },
+  {
+    "ID": 366,
+    "Model": "Cross-Check",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:62",
+    "HTA": 72,
+    "Stack": 612.7,
+    "Reach": 411
+  },
+  {
+    "ID": 367,
+    "Model": "Cross-Check",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:64",
+    "HTA": 72,
+    "Stack": 630.9,
+    "Reach": 424.5
+  },
+  {
+    "ID": 368,
+    "Model": "Midnight Special",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:40",
+    "HTA": 71,
+    "Stack": 531,
+    "Reach": 363
+  },
+  {
+    "ID": 369,
+    "Model": "Midnight Special",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:46",
+    "HTA": 71.5,
+    "Stack": 538,
+    "Reach": 366
+  },
+  {
+    "ID": 370,
+    "Model": "Midnight Special",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:50",
+    "HTA": 72,
+    "Stack": 544,
+    "Reach": 379
+  },
+  {
+    "ID": 371,
+    "Model": "Midnight Special",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 72.5,
+    "Stack": 560,
+    "Reach": 389
+  },
+  {
+    "ID": 372,
+    "Model": "Midnight Special",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73,
+    "Stack": 580,
+    "Reach": 393
+  },
+  {
+    "ID": 373,
+    "Model": "Midnight Special",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73,
+    "Stack": 599,
+    "Reach": 402
+  },
+  {
+    "ID": 374,
+    "Model": "Midnight Special",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 73.5,
+    "Stack": 620,
+    "Reach": 409
+  },
+  {
+    "ID": 375,
+    "Model": "Midnight Special",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:64",
+    "HTA": 74,
+    "Stack": 641,
+    "Reach": 423
+  },
+  {
+    "ID": 376,
+    "Model": "Steamroller",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:49",
+    "HTA": 72.5,
+    "Stack": 504.9,
+    "Reach": 388.1
+  },
+  {
+    "ID": 377,
+    "Model": "Steamroller",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:53",
+    "HTA": 73,
+    "Stack": 531.3,
+    "Reach": 394
+  },
+  {
+    "ID": 378,
+    "Model": "Steamroller",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73.5,
+    "Stack": 558.8,
+    "Reach": 402.3
+  },
+  {
+    "ID": 379,
+    "Model": "Steamroller",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:59",
+    "HTA": 74,
+    "Stack": 586.4,
+    "Reach": 408.2
+  },
+  {
+    "ID": 380,
+    "Model": "Steamroller",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:62",
+    "HTA": 74,
+    "Stack": 618.1,
+    "Reach": 420.6
+  },
+  {
+    "ID": 381,
+    "Model": "Straggler",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 72,
+    "Stack": 549.2,
+    "Reach": 396.3
+  },
+  {
+    "ID": 382,
+    "Model": "Straggler",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 72,
+    "Stack": 567.3,
+    "Reach": 400.7
+  },
+  {
+    "ID": 383,
+    "Model": "Straggler",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 72,
+    "Stack": 591.1,
+    "Reach": 408.2
+  },
+  {
+    "ID": 384,
+    "Model": "Straggler",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 72,
+    "Stack": 609.1,
+    "Reach": 412.1
+  },
+  {
+    "ID": 385,
+    "Model": "Straggler",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:62",
+    "HTA": 72,
+    "Stack": 628.2,
+    "Reach": 420.9
+  },
+  {
+    "ID": 386,
+    "Model": "Pacer",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:42",
+    "HTA": 71,
+    "Stack": 498.9,
+    "Reach": 377.4
+  },
+  {
+    "ID": 387,
+    "Model": "Pacer",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:46",
+    "HTA": 71.5,
+    "Stack": 514.8,
+    "Reach": 378.4
+  },
+  {
+    "ID": 388,
+    "Model": "Pacer",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:50",
+    "HTA": 72,
+    "Stack": 516.5,
+    "Reach": 385
+  },
+  {
+    "ID": 389,
+    "Model": "Pacer",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:52",
+    "HTA": 72.5,
+    "Stack": 523,
+    "Reach": 389
+  },
+  {
+    "ID": 390,
+    "Model": "Pacer",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 72.5,
+    "Stack": 539.4,
+    "Reach": 389.5
+  },
+  {
+    "ID": 391,
+    "Model": "Pacer",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73,
+    "Stack": 557.4,
+    "Reach": 394.6
+  },
+  {
+    "ID": 392,
+    "Model": "Pacer",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73.5,
+    "Stack": 576.3,
+    "Reach": 403.6
+  },
+  {
+    "ID": 393,
+    "Model": "Pacer",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 73.5,
+    "Stack": 592.6,
+    "Reach": 403.8
+  },
+  {
+    "ID": 394,
+    "Model": "Pacer",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:62",
+    "HTA": 74,
+    "Stack": 611.7,
+    "Reach": 413.1
   }
 ]

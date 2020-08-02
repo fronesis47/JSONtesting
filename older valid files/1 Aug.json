@@ -1,0 +1,442 @@
+[
+  {
+    "ID": 1,
+    "Model": "CFSL8",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XS",
+    "HTA": 69.2,
+    "Stack": 510,
+    "Reach": 360
+  },
+  {
+    "ID": 2,
+    "Model": "CFSL8",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 69.2,
+    "Stack": 532,
+    "Reach": 370
+  },
+  {
+    "ID": 3,
+    "Model": "CFSL8",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 72,
+    "Stack": 557,
+    "Reach": 376
+  },
+  {
+    "ID": 4,
+    "Model": "CFSL8",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 73,
+    "Stack": 578,
+    "Reach": 382
+  },
+  {
+    "ID": 5,
+    "Model": "CFSL8",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 73,
+    "Stack": 604,
+    "Reach": 389
+  },
+  {
+    "ID": 6,
+    "Model": "CFSL8",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 73.25,
+    "Stack": 625,
+    "Reach": 407
+  },
+  {
+    "ID": 7,
+    "Model": "CFSL8",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XL",
+    "HTA": 73.25,
+    "Stack": 644,
+    "Reach": 417
+  },
+  {
+    "ID": 8,
+    "Model": "Grail Al 7.0",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XS",
+    "HTA": 70,
+    "Stack": 514,
+    "Reach": 364
+  },
+  {
+    "ID": 9,
+    "Model": "Grail Al 7.0",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71,
+    "Stack": 533,
+    "Reach": 373
+  },
+  {
+    "ID": 10,
+    "Model": "Grail Al 7.0",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 70.8,
+    "Stack": 556,
+    "Reach": 390
+  },
+  {
+    "ID": 11,
+    "Model": "Grail Al 7.0",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 72.3,
+    "Stack": 579,
+    "Reach": 405
+  },
+  {
+    "ID": 12,
+    "Model": "Grail Al 7.0",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 72.5,
+    "Stack": 605,
+    "Reach": 412
+  },
+  {
+    "ID": 13,
+    "Model": "Grail Al 7.0",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 72.8,
+    "Stack": 626,
+    "Reach": 431
+  },
+  {
+    "ID": 14,
+    "Model": "Grail Al 7.0",
+    "Brand": "Canyon",
+    "Year": 2020,
+    "Size": "2XL",
+    "HTA": 72.8,
+    "Stack": 644,
+    "Reach": 440
+  },
+  {
+    "ID": 15,
+    "Model": "Diverge Base",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 69.5,
+    "Stack": 568,
+    "Reach": 357
+  },
+  {
+    "ID": 16,
+    "Model": "Diverge Base",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:49",
+    "HTA": 70,
+    "Stack": 571,
+    "Reach": 365
+  },
+  {
+    "ID": 17,
+    "Model": "Diverge Base",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:52",
+    "HTA": 70.5,
+    "Stack": 577,
+    "Reach": 374
+  },
+  {
+    "ID": 18,
+    "Model": "Diverge Base",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71.25,
+    "Stack": 592,
+    "Reach": 383
+  },
+  {
+    "ID": 19,
+    "Model": "Diverge Base",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 71.75,
+    "Stack": 610,
+    "Reach": 392
+  },
+  {
+    "ID": 20,
+    "Model": "Diverge Base",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 71.75,
+    "Stack": 634,
+    "Reach": 401
+  },
+  {
+    "ID": 21,
+    "Model": "Diverge Base",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 71.75,
+    "Stack": 659,
+    "Reach": 410
+  },
+  {
+    "ID": 22,
+    "Model": "Diverge Base",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:74",
+    "HTA": 72.25,
+    "Stack": 684,
+    "Reach": 419
+  },
+  {
+    "ID": 23,
+    "Model": "Allez Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 71.5,
+    "Stack": 516,
+    "Reach": 365
+  },
+  {
+    "ID": 24,
+    "Model": "Allez Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:49",
+    "HTA": 72.25,
+    "Stack": 535,
+    "Reach": 374
+  },
+  {
+    "ID": 25,
+    "Model": "Allez Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:52",
+    "HTA": 73,
+    "Stack": 552,
+    "Reach": 376
+  },
+  {
+    "ID": 26,
+    "Model": "Allez Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 73,
+    "Stack": 570,
+    "Reach": 380
+  },
+  {
+    "ID": 27,
+    "Model": "Allez Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73.5,
+    "Stack": 596,
+    "Reach": 385
+  },
+  {
+    "ID": 28,
+    "Model": "Allez Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73.5,
+    "Stack": 627,
+    "Reach": 390
+  },
+  {
+    "ID": 29,
+    "Model": "Allez Sport",
+    "Brand": "Specialized",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 74,
+    "Stack": 649,
+    "Reach": 396
+  },
+  {
+    "ID": 30,
+    "Model": "CAAD13Disc",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 70.9,
+    "Stack": 505,
+    "Reach": 370
+  },
+  {
+    "ID": 31,
+    "Model": "CAAD13Disc",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 71.2,
+    "Stack": 520,
+    "Reach": 374
+  },
+  {
+    "ID": 32,
+    "Model": "CAAD13Disc",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71.2,
+    "Stack": 535,
+    "Reach": 378
+  },
+  {
+    "ID": 33,
+    "Model": "CAAD13Disc",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71.2,
+    "Stack": 555,
+    "Reach": 384
+  },
+  {
+    "ID": 34,
+    "Model": "CAAD13Disc",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73,
+    "Stack": 575,
+    "Reach": 389
+  },
+  {
+    "ID": 35,
+    "Model": "CAAD13Disc",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73,
+    "Stack": 595,
+    "Reach": 395
+  },
+  {
+    "ID": 36,
+    "Model": "CAAD13Disc",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 73,
+    "Stack": 615,
+    "Reach": 400
+  },
+  {
+    "ID": 37,
+    "Model": "CAAD13Disc",
+    "Brand": "Cannondale",
+    "Year": 2020,
+    "Size": "Sz:62",
+    "HTA": 73,
+    "Stack": 635,
+    "Reach": 406
+  },
+  {
+    "ID": 38,
+    "Model": "DiscTrucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 72,
+    "Stack": 613,
+    "Reach": 387.5
+  },
+  {
+    "ID": 39,
+    "Model": "DiscTrucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 72,
+    "Stack": 632,
+    "Reach": 391
+  },
+  {
+    "ID": 40,
+    "Model": "DiscTrucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 72,
+    "Stack": 651.5,
+    "Reach": 400
+  },
+  {
+    "ID": 41,
+    "Model": "DiscTrucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:62",
+    "HTA": 72,
+    "Stack": 670.5,
+    "Reach": 402
+  },
+  {
+    "ID": 42,
+    "Model": "DiscTrucker",
+    "Brand": "Surly",
+    "Year": 2020,
+    "Size": "Sz:64",
+    "HTA": 72,
+    "Stack": 685,
+    "Reach": 412.5
+  },
+  {
+    "ID": 43,
+    "Model": "TCR Advanced",
+    "Brand": "Giant",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 73,
+    "Stack": 545,
+    "Reach": 388
+  },
+  {
+    "ID": 44,
+    "Model": "Endurace CF SL",
+    "Brand": "Canyon",
+    "Year": 2017,
+    "Size": "M",
+    "HTA": 73,
+    "Stack": 577,
+    "Reach": 382
+  }
+]
