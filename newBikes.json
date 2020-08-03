@@ -655,7 +655,7 @@
     "Brand": "Cannondale",
     "Year": 2020,
     "Size": "XS",
-    "HTA": 70.0,
+    "HTA": 70,
     "Stack": 518,
     "Reach": 368
   },
@@ -1225,7 +1225,7 @@
     "Brand": "Specialized",
     "Year": 2020,
     "Size": "Sz:46",
-    "HTA": "69.5°",
+    "HTA": 69.5,
     "Stack": 523,
     "Reach": 366
   },
@@ -1235,7 +1235,7 @@
     "Brand": "Specialized",
     "Year": 2020,
     "Size": "Sz:49",
-    "HTA": "70.5°",
+    "HTA": 70.5,
     "Stack": 540,
     "Reach": 369
   },
@@ -1245,7 +1245,7 @@
     "Brand": "Specialized",
     "Year": 2020,
     "Size": "Sz:52",
-    "HTA": "71.5°",
+    "HTA": 71.5,
     "Stack": 554,
     "Reach": 375
   },
@@ -1255,7 +1255,7 @@
     "Brand": "Specialized",
     "Year": 2020,
     "Size": "Sz:54",
-    "HTA": "71.5°",
+    "HTA": 71.5,
     "Stack": 566,
     "Reach": 382
   },
@@ -1265,7 +1265,7 @@
     "Brand": "Specialized",
     "Year": 2020,
     "Size": "Sz:56",
-    "HTA": "72°",
+    "HTA": 72,
     "Stack": 582,
     "Reach": 388
   },
@@ -1275,7 +1275,7 @@
     "Brand": "Specialized",
     "Year": 2020,
     "Size": "Sz:58",
-    "HTA": "72.5°",
+    "HTA": 72.5,
     "Stack": 597,
     "Reach": 395
   },
@@ -1285,7 +1285,7 @@
     "Brand": "Specialized",
     "Year": 2020,
     "Size": "Sz:61",
-    "HTA": "73°",
+    "HTA": 73,
     "Stack": 618,
     "Reach": 402
   },
@@ -2061,76 +2061,6 @@
   },
   {
     "ID": 207,
-    "Model": "Grail CFSLX Disc",
-    "Brand": "Canyon",
-    "Year": 2020,
-    "Size": "2XS",
-    "HTA": 70.25,
-    "Stack": 594,
-    "Reach": 384
-  },
-  {
-    "ID": 208,
-    "Model": "Grail CFSLX Disc",
-    "Brand": "Canyon",
-    "Year": 2020,
-    "Size": "XS",
-    "HTA": 71.25,
-    "Stack": 615,
-    "Reach": 422
-  },
-  {
-    "ID": 209,
-    "Model": "Grail CFSLX Disc",
-    "Brand": "Canyon",
-    "Year": 2020,
-    "Size": "S",
-    "HTA": 71,
-    "Stack": 638,
-    "Reach": 439
-  },
-  {
-    "ID": 210,
-    "Model": "Grail CFSLX Disc",
-    "Brand": "Canyon",
-    "Year": 2020,
-    "Size": "M",
-    "HTA": 72.5,
-    "Stack": 660,
-    "Reach": 458
-  },
-  {
-    "ID": 211,
-    "Model": "Grail CFSLX Disc",
-    "Brand": "Canyon",
-    "Year": 2020,
-    "Size": "L",
-    "HTA": 72.5,
-    "Stack": 687,
-    "Reach": 475
-  },
-  {
-    "ID": 212,
-    "Model": "Grail CFSLX Disc",
-    "Brand": "Canyon",
-    "Year": 2020,
-    "Size": "XL",
-    "HTA": 72.75,
-    "Stack": 708,
-    "Reach": 494
-  },
-  {
-    "ID": 213,
-    "Model": "Grail CFSLX Disc",
-    "Brand": "Canyon",
-    "Year": 2020,
-    "Size": "2XL",
-    "HTA": 72.75,
-    "Stack": 728,
-    "Reach": 513
-  },
-  {
-    "ID": 214,
     "Model": "Inflite CF SL Disc",
     "Brand": "Canyon",
     "Year": 2020,
@@ -2140,7 +2070,7 @@
     "Reach": 357
   },
   {
-    "ID": 215,
+    "ID": 208,
     "Model": "Inflite CF SL Disc",
     "Brand": "Canyon",
     "Year": 2020,
@@ -2150,7 +2080,7 @@
     "Reach": 371
   },
   {
-    "ID": 216,
+    "ID": 209,
     "Model": "Inflite CF SL Disc",
     "Brand": "Canyon",
     "Year": 2020,
@@ -2160,7 +2090,7 @@
     "Reach": 376
   },
   {
-    "ID": 217,
+    "ID": 210,
     "Model": "Inflite CF SL Disc",
     "Brand": "Canyon",
     "Year": 2020,
@@ -2170,7 +2100,7 @@
     "Reach": 388
   },
   {
-    "ID": 218,
+    "ID": 211,
     "Model": "Inflite CF SL Disc",
     "Brand": "Canyon",
     "Year": 2020,
@@ -2180,7 +2110,7 @@
     "Reach": 393
   },
   {
-    "ID": 219,
+    "ID": 212,
     "Model": "Inflite CF SL Disc",
     "Brand": "Canyon",
     "Year": 2020,
@@ -2190,7 +2120,7 @@
     "Reach": 402
   },
   {
-    "ID": 220,
+    "ID": 213,
     "Model": "Inflite CF SL Disc",
     "Brand": "Canyon",
     "Year": 2020,
@@ -2200,7 +2130,7 @@
     "Reach": 418
   },
   {
-    "ID": 221,
+    "ID": 214,
     "Model": "Inflite CF SL Disc",
     "Brand": "Canyon",
     "Year": 2020,
@@ -2210,7 +2140,7 @@
     "Reach": 428
   },
   {
-    "ID": 222,
+    "ID": 215,
     "Model": "TCR Advanced SL",
     "Brand": "Giant",
     "Year": 2021,
@@ -2220,7 +2150,7 @@
     "Reach": 376
   },
   {
-    "ID": 223,
+    "ID": 216,
     "Model": "TCR Advanced SL",
     "Brand": "Giant",
     "Year": 2021,
@@ -2230,7 +2160,7 @@
     "Reach": 383
   },
   {
-    "ID": 224,
+    "ID": 217,
     "Model": "TCR Advanced SL",
     "Brand": "Giant",
     "Year": 2021,
@@ -2240,7 +2170,7 @@
     "Reach": 388
   },
   {
-    "ID": 225,
+    "ID": 218,
     "Model": "TCR Advanced SL",
     "Brand": "Giant",
     "Year": 2021,
@@ -2250,7 +2180,7 @@
     "Reach": 393
   },
   {
-    "ID": 226,
+    "ID": 219,
     "Model": "TCR Advanced SL",
     "Brand": "Giant",
     "Year": 2021,
@@ -2260,7 +2190,7 @@
     "Reach": 402
   },
   {
-    "ID": 227,
+    "ID": 220,
     "Model": "TCR Advanced SL",
     "Brand": "Giant",
     "Year": 2021,
@@ -2270,7 +2200,7 @@
     "Reach": 412
   },
   {
-    "ID": 228,
+    "ID": 221,
     "Model": "Contend AR 1",
     "Brand": "Giant",
     "Year": 2021,
@@ -2280,7 +2210,7 @@
     "Reach": 371
   },
   {
-    "ID": 229,
+    "ID": 222,
     "Model": "Contend AR 1",
     "Brand": "Giant",
     "Year": 2021,
@@ -2290,7 +2220,7 @@
     "Reach": 375
   },
   {
-    "ID": 230,
+    "ID": 223,
     "Model": "Contend AR 1",
     "Brand": "Giant",
     "Year": 2021,
@@ -2300,7 +2230,7 @@
     "Reach": 380
   },
   {
-    "ID": 231,
+    "ID": 224,
     "Model": "Contend AR 1",
     "Brand": "Giant",
     "Year": 2021,
@@ -2310,7 +2240,7 @@
     "Reach": 383
   },
   {
-    "ID": 232,
+    "ID": 225,
     "Model": "Contend AR 1",
     "Brand": "Giant",
     "Year": 2021,
@@ -2320,7 +2250,7 @@
     "Reach": 392
   },
   {
-    "ID": 233,
+    "ID": 226,
     "Model": "Contend AR 1",
     "Brand": "Giant",
     "Year": 2021,
@@ -2330,7 +2260,7 @@
     "Reach": 400
   },
   {
-    "ID": 234,
+    "ID": 227,
     "Model": "Fastroad SL3",
     "Brand": "Giant",
     "Year": 2021,
@@ -2340,7 +2270,7 @@
     "Reach": 386
   },
   {
-    "ID": 235,
+    "ID": 228,
     "Model": "Fastroad SL3",
     "Brand": "Giant",
     "Year": 2021,
@@ -2350,7 +2280,7 @@
     "Reach": 388
   },
   {
-    "ID": 236,
+    "ID": 229,
     "Model": "Fastroad SL3",
     "Brand": "Giant",
     "Year": 2021,
@@ -2360,7 +2290,7 @@
     "Reach": 395
   },
   {
-    "ID": 237,
+    "ID": 230,
     "Model": "Fastroad SL3",
     "Brand": "Giant",
     "Year": 2021,
@@ -2370,7 +2300,7 @@
     "Reach": 403
   },
   {
-    "ID": 238,
+    "ID": 231,
     "Model": "Fastroad SL3",
     "Brand": "Giant",
     "Year": 2021,
@@ -2380,7 +2310,7 @@
     "Reach": 416
   },
   {
-    "ID": 239,
+    "ID": 232,
     "Model": "TCX Adv Pro",
     "Brand": "Giant",
     "Year": 2020,
@@ -2390,7 +2320,7 @@
     "Reach": 370
   },
   {
-    "ID": 240,
+    "ID": 233,
     "Model": "TCX Adv Pro",
     "Brand": "Giant",
     "Year": 2020,
@@ -2400,7 +2330,7 @@
     "Reach": 375
   },
   {
-    "ID": 241,
+    "ID": 234,
     "Model": "TCX Adv Pro",
     "Brand": "Giant",
     "Year": 2020,
@@ -2410,7 +2340,7 @@
     "Reach": 385
   },
   {
-    "ID": 242,
+    "ID": 235,
     "Model": "TCX Adv Pro",
     "Brand": "Giant",
     "Year": 2020,
@@ -2420,7 +2350,7 @@
     "Reach": 395
   },
   {
-    "ID": 243,
+    "ID": 236,
     "Model": "TCX Adv Pro",
     "Brand": "Giant",
     "Year": 2020,
@@ -2430,7 +2360,7 @@
     "Reach": 406
   },
   {
-    "ID": 244,
+    "ID": 237,
     "Model": "Propel Adv Pro Disc",
     "Brand": "Giant",
     "Year": 2020,
@@ -2440,7 +2370,7 @@
     "Reach": 372
   },
   {
-    "ID": 245,
+    "ID": 238,
     "Model": "Propel Adv Pro Disc",
     "Brand": "Giant",
     "Year": 2020,
@@ -2450,7 +2380,7 @@
     "Reach": 378
   },
   {
-    "ID": 246,
+    "ID": 239,
     "Model": "Propel Adv Pro Disc",
     "Brand": "Giant",
     "Year": 2020,
@@ -2460,7 +2390,7 @@
     "Reach": 383
   },
   {
-    "ID": 247,
+    "ID": 240,
     "Model": "Propel Adv Pro Disc",
     "Brand": "Giant",
     "Year": 2020,
@@ -2470,7 +2400,7 @@
     "Reach": 398
   },
   {
-    "ID": 248,
+    "ID": 241,
     "Model": "Propel Adv Pro Disc",
     "Brand": "Giant",
     "Year": 2020,
@@ -2480,7 +2410,7 @@
     "Reach": 402
   },
   {
-    "ID": 249,
+    "ID": 242,
     "Model": "Propel Adv Pro Disc",
     "Brand": "Giant",
     "Year": 2020,
@@ -2490,7 +2420,7 @@
     "Reach": 412
   },
   {
-    "ID": 250,
+    "ID": 243,
     "Model": "Escape 1 Disc",
     "Brand": "Giant",
     "Year": 2020,
@@ -2500,7 +2430,7 @@
     "Reach": 406
   },
   {
-    "ID": 251,
+    "ID": 244,
     "Model": "Escape 1 Disc",
     "Brand": "Giant",
     "Year": 2020,
@@ -2510,7 +2440,7 @@
     "Reach": 410
   },
   {
-    "ID": 252,
+    "ID": 245,
     "Model": "Escape 1 Disc",
     "Brand": "Giant",
     "Year": 2020,
@@ -2520,7 +2450,7 @@
     "Reach": 416
   },
   {
-    "ID": 253,
+    "ID": 246,
     "Model": "Escape 1 Disc",
     "Brand": "Giant",
     "Year": 2020,
@@ -2530,7 +2460,7 @@
     "Reach": 423
   },
   {
-    "ID": 254,
+    "ID": 247,
     "Model": "Escape 1 Disc",
     "Brand": "Giant",
     "Year": 2020,
@@ -2540,7 +2470,7 @@
     "Reach": 376
   },
   {
-    "ID": 255,
+    "ID": 248,
     "Model": "Escape 1 Disc",
     "Brand": "Giant",
     "Year": 2020,
@@ -2550,7 +2480,7 @@
     "Reach": 390
   },
   {
-    "ID": 256,
+    "ID": 249,
     "Model": "Cypress DX",
     "Brand": "Giant",
     "Year": 2020,
@@ -2560,7 +2490,7 @@
     "Reach": 401
   },
   {
-    "ID": 257,
+    "ID": 250,
     "Model": "Cypress DX",
     "Brand": "Giant",
     "Year": 2020,
@@ -2570,7 +2500,7 @@
     "Reach": 411
   },
   {
-    "ID": 258,
+    "ID": 251,
     "Model": "Cypress DX",
     "Brand": "Giant",
     "Year": 2020,
@@ -2580,7 +2510,7 @@
     "Reach": 421
   },
   {
-    "ID": 259,
+    "ID": 252,
     "Model": "Revolt Adv Pro",
     "Brand": "Giant",
     "Year": 2021,
@@ -2590,7 +2520,7 @@
     "Reach": 373
   },
   {
-    "ID": 260,
+    "ID": 253,
     "Model": "Revolt Adv Pro",
     "Brand": "Giant",
     "Year": 2021,
@@ -2600,7 +2530,7 @@
     "Reach": 375
   },
   {
-    "ID": 261,
+    "ID": 254,
     "Model": "Revolt Adv Pro",
     "Brand": "Giant",
     "Year": 2021,
@@ -2610,7 +2540,7 @@
     "Reach": 381
   },
   {
-    "ID": 262,
+    "ID": 255,
     "Model": "Revolt Adv Pro",
     "Brand": "Giant",
     "Year": 2021,
@@ -2620,7 +2550,7 @@
     "Reach": 385
   },
   {
-    "ID": 263,
+    "ID": 256,
     "Model": "Revolt Adv Pro",
     "Brand": "Giant",
     "Year": 2021,
@@ -2630,7 +2560,7 @@
     "Reach": 391
   },
   {
-    "ID": 264,
+    "ID": 257,
     "Model": "Revolt Adv Pro",
     "Brand": "Giant",
     "Year": 2021,
@@ -2640,7 +2570,7 @@
     "Reach": 402
   },
   {
-    "ID": 265,
+    "ID": 258,
     "Model": "Revolt 2",
     "Brand": "Giant",
     "Year": 2021,
@@ -2650,7 +2580,7 @@
     "Reach": 373
   },
   {
-    "ID": 266,
+    "ID": 259,
     "Model": "Revolt 2",
     "Brand": "Giant",
     "Year": 2021,
@@ -2660,7 +2590,7 @@
     "Reach": 375
   },
   {
-    "ID": 267,
+    "ID": 260,
     "Model": "Revolt 2",
     "Brand": "Giant",
     "Year": 2021,
@@ -2670,7 +2600,7 @@
     "Reach": 381
   },
   {
-    "ID": 268,
+    "ID": 261,
     "Model": "Revolt 2",
     "Brand": "Giant",
     "Year": 2021,
@@ -2680,7 +2610,7 @@
     "Reach": 385
   },
   {
-    "ID": 269,
+    "ID": 262,
     "Model": "Revolt 2",
     "Brand": "Giant",
     "Year": 2021,
@@ -2690,7 +2620,7 @@
     "Reach": 391
   },
   {
-    "ID": 270,
+    "ID": 263,
     "Model": "Revolt 2",
     "Brand": "Giant",
     "Year": 2021,
@@ -2700,7 +2630,7 @@
     "Reach": 402
   },
   {
-    "ID": 271,
+    "ID": 264,
     "Model": "Gan",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2710,7 +2640,7 @@
     "Reach": 354
   },
   {
-    "ID": 272,
+    "ID": 265,
     "Model": "Gan",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2720,7 +2650,7 @@
     "Reach": 367
   },
   {
-    "ID": 273,
+    "ID": 266,
     "Model": "Gan",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2730,7 +2660,7 @@
     "Reach": 370
   },
   {
-    "ID": 274,
+    "ID": 267,
     "Model": "Gan",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2740,7 +2670,7 @@
     "Reach": 378
   },
   {
-    "ID": 275,
+    "ID": 268,
     "Model": "Gan",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2750,7 +2680,7 @@
     "Reach": 386
   },
   {
-    "ID": 276,
+    "ID": 269,
     "Model": "Gan",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2760,7 +2690,7 @@
     "Reach": 384
   },
   {
-    "ID": 277,
+    "ID": 270,
     "Model": "Gan",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2770,7 +2700,7 @@
     "Reach": 387
   },
   {
-    "ID": 278,
+    "ID": 271,
     "Model": "Gan",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2780,7 +2710,7 @@
     "Reach": 390
   },
   {
-    "ID": 279,
+    "ID": 272,
     "Model": "Gan",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2790,7 +2720,7 @@
     "Reach": 395
   },
   {
-    "ID": 280,
+    "ID": 273,
     "Model": "Gan",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2800,7 +2730,7 @@
     "Reach": 395
   },
   {
-    "ID": 281,
+    "ID": 274,
     "Model": "Gan",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2810,7 +2740,7 @@
     "Reach": 410
   },
   {
-    "ID": 282,
+    "ID": 275,
     "Model": "Grevil+",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2820,7 +2750,7 @@
     "Reach": 353
   },
   {
-    "ID": 283,
+    "ID": 276,
     "Model": "Grevil+",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2830,7 +2760,7 @@
     "Reach": 359
   },
   {
-    "ID": 284,
+    "ID": 277,
     "Model": "Grevil+",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2840,7 +2770,7 @@
     "Reach": 368
   },
   {
-    "ID": 285,
+    "ID": 278,
     "Model": "Grevil+",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2850,7 +2780,7 @@
     "Reach": 374
   },
   {
-    "ID": 286,
+    "ID": 279,
     "Model": "Grevil+",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2860,7 +2790,7 @@
     "Reach": 386
   },
   {
-    "ID": 287,
+    "ID": 280,
     "Model": "Grevil+",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2870,7 +2800,7 @@
     "Reach": 402
   },
   {
-    "ID": 288,
+    "ID": 281,
     "Model": "Paris",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2880,7 +2810,7 @@
     "Reach": 347.4
   },
   {
-    "ID": 289,
+    "ID": 282,
     "Model": "Paris",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2890,7 +2820,7 @@
     "Reach": 357.5
   },
   {
-    "ID": 290,
+    "ID": 283,
     "Model": "Paris",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2900,7 +2830,7 @@
     "Reach": 367.2
   },
   {
-    "ID": 291,
+    "ID": 284,
     "Model": "Paris",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2910,7 +2840,7 @@
     "Reach": 373.6
   },
   {
-    "ID": 292,
+    "ID": 285,
     "Model": "Paris",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2920,7 +2850,7 @@
     "Reach": 377.5
   },
   {
-    "ID": 293,
+    "ID": 286,
     "Model": "Paris",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2930,7 +2860,7 @@
     "Reach": 381.6
   },
   {
-    "ID": 294,
+    "ID": 287,
     "Model": "Paris",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2940,7 +2870,7 @@
     "Reach": 385
   },
   {
-    "ID": 295,
+    "ID": 288,
     "Model": "Paris",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2950,7 +2880,7 @@
     "Reach": 388.9
   },
   {
-    "ID": 296,
+    "ID": 289,
     "Model": "Paris",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2960,7 +2890,7 @@
     "Reach": 392.9
   },
   {
-    "ID": 297,
+    "ID": 290,
     "Model": "Prince",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2970,7 +2900,7 @@
     "Reach": 356
   },
   {
-    "ID": 298,
+    "ID": 291,
     "Model": "Prince",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2980,7 +2910,7 @@
     "Reach": 364
   },
   {
-    "ID": 299,
+    "ID": 292,
     "Model": "Prince",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -2990,7 +2920,7 @@
     "Reach": 370
   },
   {
-    "ID": 300,
+    "ID": 293,
     "Model": "Prince",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3000,7 +2930,7 @@
     "Reach": 376
   },
   {
-    "ID": 301,
+    "ID": 294,
     "Model": "Prince",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3010,7 +2940,7 @@
     "Reach": 380
   },
   {
-    "ID": 302,
+    "ID": 295,
     "Model": "Prince",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3020,7 +2950,7 @@
     "Reach": 385
   },
   {
-    "ID": 303,
+    "ID": 296,
     "Model": "Prince",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3030,7 +2960,7 @@
     "Reach": 388
   },
   {
-    "ID": 304,
+    "ID": 297,
     "Model": "Prince",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3040,7 +2970,7 @@
     "Reach": 392
   },
   {
-    "ID": 305,
+    "ID": 298,
     "Model": "Prince",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3050,7 +2980,7 @@
     "Reach": 398
   },
   {
-    "ID": 306,
+    "ID": 299,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3060,7 +2990,7 @@
     "Reach": 348.9
   },
   {
-    "ID": 307,
+    "ID": 300,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3070,7 +3000,7 @@
     "Reach": 354.3
   },
   {
-    "ID": 308,
+    "ID": 301,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3080,7 +3010,7 @@
     "Reach": 364.8
   },
   {
-    "ID": 309,
+    "ID": 302,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3090,7 +3020,7 @@
     "Reach": 370.5
   },
   {
-    "ID": 310,
+    "ID": 303,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3100,7 +3030,7 @@
     "Reach": 372.1
   },
   {
-    "ID": 311,
+    "ID": 304,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3110,7 +3040,7 @@
     "Reach": 378
   },
   {
-    "ID": 312,
+    "ID": 305,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3120,7 +3050,7 @@
     "Reach": 383.3
   },
   {
-    "ID": 313,
+    "ID": 306,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3130,7 +3060,7 @@
     "Reach": 385
   },
   {
-    "ID": 314,
+    "ID": 307,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3140,7 +3070,7 @@
     "Reach": 388.8
   },
   {
-    "ID": 315,
+    "ID": 308,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3150,7 +3080,7 @@
     "Reach": 390.7
   },
   {
-    "ID": 316,
+    "ID": 309,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3160,7 +3090,7 @@
     "Reach": 396.7
   },
   {
-    "ID": 317,
+    "ID": 310,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3170,7 +3100,7 @@
     "Reach": 393.3
   },
   {
-    "ID": 318,
+    "ID": 311,
     "Model": "Dogma F12",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3180,7 +3110,7 @@
     "Reach": 410.1
   },
   {
-    "ID": 319,
+    "ID": 312,
     "Model": "Razha",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3190,7 +3120,7 @@
     "Reach": 355
   },
   {
-    "ID": 320,
+    "ID": 313,
     "Model": "Razha",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3200,7 +3130,7 @@
     "Reach": 367
   },
   {
-    "ID": 321,
+    "ID": 314,
     "Model": "Razha",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3210,7 +3140,7 @@
     "Reach": 372
   },
   {
-    "ID": 322,
+    "ID": 315,
     "Model": "Razha",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3220,7 +3150,7 @@
     "Reach": 378
   },
   {
-    "ID": 323,
+    "ID": 316,
     "Model": "Razha",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3230,7 +3160,7 @@
     "Reach": 384
   },
   {
-    "ID": 324,
+    "ID": 317,
     "Model": "Razha",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3240,7 +3170,7 @@
     "Reach": 384
   },
   {
-    "ID": 325,
+    "ID": 318,
     "Model": "Razha",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3250,7 +3180,7 @@
     "Reach": 388
   },
   {
-    "ID": 326,
+    "ID": 319,
     "Model": "Razha",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3260,7 +3190,7 @@
     "Reach": 390
   },
   {
-    "ID": 327,
+    "ID": 320,
     "Model": "Razha",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3270,7 +3200,7 @@
     "Reach": 396
   },
   {
-    "ID": 328,
+    "ID": 321,
     "Model": "Razha",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3280,7 +3210,7 @@
     "Reach": 395
   },
   {
-    "ID": 329,
+    "ID": 322,
     "Model": "Angliru",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3290,7 +3220,7 @@
     "Reach": 345
   },
   {
-    "ID": 330,
+    "ID": 323,
     "Model": "Angliru",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3300,7 +3230,7 @@
     "Reach": 357
   },
   {
-    "ID": 331,
+    "ID": 324,
     "Model": "Angliru",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3310,7 +3240,7 @@
     "Reach": 370
   },
   {
-    "ID": 332,
+    "ID": 325,
     "Model": "Angliru",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3320,7 +3250,7 @@
     "Reach": 371
   },
   {
-    "ID": 333,
+    "ID": 326,
     "Model": "Angliru",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3330,7 +3260,7 @@
     "Reach": 379
   },
   {
-    "ID": 334,
+    "ID": 327,
     "Model": "Angliru",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3340,7 +3270,7 @@
     "Reach": 388
   },
   {
-    "ID": 335,
+    "ID": 328,
     "Model": "Angliru",
     "Brand": "Pinarello",
     "Year": 2021,
@@ -3350,7 +3280,7 @@
     "Reach": 390
   },
   {
-    "ID": 336,
+    "ID": 329,
     "Model": "Ogre",
     "Brand": "Surly",
     "Year": 2020,
@@ -3360,7 +3290,7 @@
     "Reach": 395.5
   },
   {
-    "ID": 337,
+    "ID": 330,
     "Model": "Ogre",
     "Brand": "Surly",
     "Year": 2020,
@@ -3370,7 +3300,7 @@
     "Reach": 410.5
   },
   {
-    "ID": 338,
+    "ID": 331,
     "Model": "Ogre",
     "Brand": "Surly",
     "Year": 2020,
@@ -3380,7 +3310,7 @@
     "Reach": 427.6
   },
   {
-    "ID": 339,
+    "ID": 332,
     "Model": "Ogre",
     "Brand": "Surly",
     "Year": 2020,
@@ -3390,7 +3320,7 @@
     "Reach": 447
   },
   {
-    "ID": 340,
+    "ID": 333,
     "Model": "Bridge Club",
     "Brand": "Surly",
     "Year": 2020,
@@ -3400,7 +3330,7 @@
     "Reach": 376
   },
   {
-    "ID": 341,
+    "ID": 334,
     "Model": "Bridge Club",
     "Brand": "Surly",
     "Year": 2020,
@@ -3410,7 +3340,7 @@
     "Reach": 397
   },
   {
-    "ID": 342,
+    "ID": 335,
     "Model": "Bridge Club",
     "Brand": "Surly",
     "Year": 2020,
@@ -3420,7 +3350,7 @@
     "Reach": 419
   },
   {
-    "ID": 343,
+    "ID": 336,
     "Model": "Bridge Club",
     "Brand": "Surly",
     "Year": 2020,
@@ -3430,7 +3360,7 @@
     "Reach": 434.5
   },
   {
-    "ID": 344,
+    "ID": 337,
     "Model": "Bridge Club",
     "Brand": "Surly",
     "Year": 2020,
@@ -3440,7 +3370,7 @@
     "Reach": 444
   },
   {
-    "ID": 345,
+    "ID": 338,
     "Model": "Pack Rat",
     "Brand": "Surly",
     "Year": 2020,
@@ -3450,7 +3380,7 @@
     "Reach": 377
   },
   {
-    "ID": 346,
+    "ID": 339,
     "Model": "Pack Rat",
     "Brand": "Surly",
     "Year": 2020,
@@ -3460,7 +3390,7 @@
     "Reach": 379
   },
   {
-    "ID": 347,
+    "ID": 340,
     "Model": "Pack Rat",
     "Brand": "Surly",
     "Year": 2020,
@@ -3470,7 +3400,7 @@
     "Reach": 386
   },
   {
-    "ID": 348,
+    "ID": 341,
     "Model": "Pack Rat",
     "Brand": "Surly",
     "Year": 2020,
@@ -3480,7 +3410,7 @@
     "Reach": 392
   },
   {
-    "ID": 349,
+    "ID": 342,
     "Model": "Long Haul Trucker",
     "Brand": "Surly",
     "Year": 2020,
@@ -3490,7 +3420,7 @@
     "Reach": 367.2
   },
   {
-    "ID": 350,
+    "ID": 343,
     "Model": "Long Haul Trucker",
     "Brand": "Surly",
     "Year": 2020,
@@ -3500,7 +3430,7 @@
     "Reach": 371.3
   },
   {
-    "ID": 351,
+    "ID": 344,
     "Model": "Long Haul Trucker",
     "Brand": "Surly",
     "Year": 2020,
@@ -3510,7 +3440,7 @@
     "Reach": 374.5
   },
   {
-    "ID": 352,
+    "ID": 345,
     "Model": "Long Haul Trucker",
     "Brand": "Surly",
     "Year": 2020,
@@ -3520,7 +3450,7 @@
     "Reach": 374.6
   },
   {
-    "ID": 353,
+    "ID": 346,
     "Model": "Long Haul Trucker",
     "Brand": "Surly",
     "Year": 2020,
@@ -3530,7 +3460,7 @@
     "Reach": 379.4
   },
   {
-    "ID": 354,
+    "ID": 347,
     "Model": "Long Haul Trucker",
     "Brand": "Surly",
     "Year": 2020,
@@ -3540,7 +3470,7 @@
     "Reach": 388.3
   },
   {
-    "ID": 355,
+    "ID": 348,
     "Model": "Long Haul Trucker",
     "Brand": "Surly",
     "Year": 2020,
@@ -3550,7 +3480,7 @@
     "Reach": 393.5
   },
   {
-    "ID": 356,
+    "ID": 349,
     "Model": "Long Haul Trucker",
     "Brand": "Surly",
     "Year": 2020,
@@ -3560,7 +3490,7 @@
     "Reach": 402.5
   },
   {
-    "ID": 357,
+    "ID": 350,
     "Model": "Long Haul Trucker",
     "Brand": "Surly",
     "Year": 2020,
@@ -3570,7 +3500,7 @@
     "Reach": 400.5
   },
   {
-    "ID": 358,
+    "ID": 351,
     "Model": "Cross-Check",
     "Brand": "Surly",
     "Year": 2020,
@@ -3580,7 +3510,7 @@
     "Reach": 378.7
   },
   {
-    "ID": 359,
+    "ID": 352,
     "Model": "Cross-Check",
     "Brand": "Surly",
     "Year": 2020,
@@ -3590,7 +3520,7 @@
     "Reach": 380.8
   },
   {
-    "ID": 360,
+    "ID": 353,
     "Model": "Cross-Check",
     "Brand": "Surly",
     "Year": 2020,
@@ -3600,7 +3530,7 @@
     "Reach": 389.1
   },
   {
-    "ID": 361,
+    "ID": 354,
     "Model": "Cross-Check",
     "Brand": "Surly",
     "Year": 2020,
@@ -3610,7 +3540,7 @@
     "Reach": 389.7
   },
   {
-    "ID": 362,
+    "ID": 355,
     "Model": "Cross-Check",
     "Brand": "Surly",
     "Year": 2020,
@@ -3620,7 +3550,7 @@
     "Reach": 394.8
   },
   {
-    "ID": 363,
+    "ID": 356,
     "Model": "Cross-Check",
     "Brand": "Surly",
     "Year": 2020,
@@ -3630,7 +3560,7 @@
     "Reach": 394.3
   },
   {
-    "ID": 364,
+    "ID": 357,
     "Model": "Cross-Check",
     "Brand": "Surly",
     "Year": 2020,
@@ -3640,7 +3570,7 @@
     "Reach": 398.3
   },
   {
-    "ID": 365,
+    "ID": 358,
     "Model": "Cross-Check",
     "Brand": "Surly",
     "Year": 2020,
@@ -3650,7 +3580,7 @@
     "Reach": 407.3
   },
   {
-    "ID": 366,
+    "ID": 359,
     "Model": "Cross-Check",
     "Brand": "Surly",
     "Year": 2020,
@@ -3660,7 +3590,7 @@
     "Reach": 411
   },
   {
-    "ID": 367,
+    "ID": 360,
     "Model": "Cross-Check",
     "Brand": "Surly",
     "Year": 2020,
@@ -3670,7 +3600,7 @@
     "Reach": 424.5
   },
   {
-    "ID": 368,
+    "ID": 361,
     "Model": "Midnight Special",
     "Brand": "Surly",
     "Year": 2020,
@@ -3680,7 +3610,7 @@
     "Reach": 363
   },
   {
-    "ID": 369,
+    "ID": 362,
     "Model": "Midnight Special",
     "Brand": "Surly",
     "Year": 2020,
@@ -3690,7 +3620,7 @@
     "Reach": 366
   },
   {
-    "ID": 370,
+    "ID": 363,
     "Model": "Midnight Special",
     "Brand": "Surly",
     "Year": 2020,
@@ -3700,7 +3630,7 @@
     "Reach": 379
   },
   {
-    "ID": 371,
+    "ID": 364,
     "Model": "Midnight Special",
     "Brand": "Surly",
     "Year": 2020,
@@ -3710,7 +3640,7 @@
     "Reach": 389
   },
   {
-    "ID": 372,
+    "ID": 365,
     "Model": "Midnight Special",
     "Brand": "Surly",
     "Year": 2020,
@@ -3720,7 +3650,7 @@
     "Reach": 393
   },
   {
-    "ID": 373,
+    "ID": 366,
     "Model": "Midnight Special",
     "Brand": "Surly",
     "Year": 2020,
@@ -3730,7 +3660,7 @@
     "Reach": 402
   },
   {
-    "ID": 374,
+    "ID": 367,
     "Model": "Midnight Special",
     "Brand": "Surly",
     "Year": 2020,
@@ -3740,7 +3670,7 @@
     "Reach": 409
   },
   {
-    "ID": 375,
+    "ID": 368,
     "Model": "Midnight Special",
     "Brand": "Surly",
     "Year": 2020,
@@ -3750,7 +3680,7 @@
     "Reach": 423
   },
   {
-    "ID": 376,
+    "ID": 369,
     "Model": "Steamroller",
     "Brand": "Surly",
     "Year": 2020,
@@ -3760,7 +3690,7 @@
     "Reach": 388.1
   },
   {
-    "ID": 377,
+    "ID": 370,
     "Model": "Steamroller",
     "Brand": "Surly",
     "Year": 2020,
@@ -3770,7 +3700,7 @@
     "Reach": 394
   },
   {
-    "ID": 378,
+    "ID": 371,
     "Model": "Steamroller",
     "Brand": "Surly",
     "Year": 2020,
@@ -3780,7 +3710,7 @@
     "Reach": 402.3
   },
   {
-    "ID": 379,
+    "ID": 372,
     "Model": "Steamroller",
     "Brand": "Surly",
     "Year": 2020,
@@ -3790,7 +3720,7 @@
     "Reach": 408.2
   },
   {
-    "ID": 380,
+    "ID": 373,
     "Model": "Steamroller",
     "Brand": "Surly",
     "Year": 2020,
@@ -3800,7 +3730,7 @@
     "Reach": 420.6
   },
   {
-    "ID": 381,
+    "ID": 374,
     "Model": "Straggler",
     "Brand": "Surly",
     "Year": 2020,
@@ -3810,7 +3740,7 @@
     "Reach": 396.3
   },
   {
-    "ID": 382,
+    "ID": 375,
     "Model": "Straggler",
     "Brand": "Surly",
     "Year": 2020,
@@ -3820,7 +3750,7 @@
     "Reach": 400.7
   },
   {
-    "ID": 383,
+    "ID": 376,
     "Model": "Straggler",
     "Brand": "Surly",
     "Year": 2020,
@@ -3830,7 +3760,7 @@
     "Reach": 408.2
   },
   {
-    "ID": 384,
+    "ID": 377,
     "Model": "Straggler",
     "Brand": "Surly",
     "Year": 2020,
@@ -3840,7 +3770,7 @@
     "Reach": 412.1
   },
   {
-    "ID": 385,
+    "ID": 378,
     "Model": "Straggler",
     "Brand": "Surly",
     "Year": 2020,
@@ -3850,7 +3780,7 @@
     "Reach": 420.9
   },
   {
-    "ID": 386,
+    "ID": 379,
     "Model": "Pacer",
     "Brand": "Surly",
     "Year": 2020,
@@ -3860,7 +3790,7 @@
     "Reach": 377.4
   },
   {
-    "ID": 387,
+    "ID": 380,
     "Model": "Pacer",
     "Brand": "Surly",
     "Year": 2020,
@@ -3870,7 +3800,7 @@
     "Reach": 378.4
   },
   {
-    "ID": 388,
+    "ID": 381,
     "Model": "Pacer",
     "Brand": "Surly",
     "Year": 2020,
@@ -3880,7 +3810,7 @@
     "Reach": 385
   },
   {
-    "ID": 389,
+    "ID": 382,
     "Model": "Pacer",
     "Brand": "Surly",
     "Year": 2020,
@@ -3890,7 +3820,7 @@
     "Reach": 389
   },
   {
-    "ID": 390,
+    "ID": 383,
     "Model": "Pacer",
     "Brand": "Surly",
     "Year": 2020,
@@ -3900,7 +3830,7 @@
     "Reach": 389.5
   },
   {
-    "ID": 391,
+    "ID": 384,
     "Model": "Pacer",
     "Brand": "Surly",
     "Year": 2020,
@@ -3910,7 +3840,7 @@
     "Reach": 394.6
   },
   {
-    "ID": 392,
+    "ID": 385,
     "Model": "Pacer",
     "Brand": "Surly",
     "Year": 2020,
@@ -3920,7 +3850,7 @@
     "Reach": 403.6
   },
   {
-    "ID": 393,
+    "ID": 386,
     "Model": "Pacer",
     "Brand": "Surly",
     "Year": 2020,
@@ -3930,7 +3860,7 @@
     "Reach": 403.8
   },
   {
-    "ID": 394,
+    "ID": 387,
     "Model": "Pacer",
     "Brand": "Surly",
     "Year": 2020,
@@ -3938,5 +3868,375 @@
     "HTA": 74,
     "Stack": 611.7,
     "Reach": 413.1
+  },
+  {
+    "ID": 388,
+    "Model": "Roadback Touring",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 72,
+    "Stack": 592.8,
+    "Reach": 353.1
+  },
+  {
+    "ID": 389,
+    "Model": "Roadback Touring",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 72,
+    "Stack": 592.8,
+    "Reach": 353.1
+  },
+  {
+    "ID": 390,
+    "Model": "Roadback Touring",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 72,
+    "Stack": 613.5,
+    "Reach": 357.3
+  },
+  {
+    "ID": 391,
+    "Model": "Roadback Touring",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "ML",
+    "HTA": 72,
+    "Stack": 629.1,
+    "Reach": 366.9
+  },
+  {
+    "ID": 392,
+    "Model": "Roadback Touring",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 72,
+    "Stack": 648.1,
+    "Reach": 376.3
+  },
+  {
+    "ID": 393,
+    "Model": "Roadback Touring",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 72,
+    "Stack": 668,
+    "Reach": 378.7
+  },
+  {
+    "ID": 394,
+    "Model": "R300 Road",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71.5,
+    "Stack": 520,
+    "Reach": 359
+  },
+  {
+    "ID": 395,
+    "Model": "R300 Road",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 72.5,
+    "Stack": 542,
+    "Reach": 369
+  },
+  {
+    "ID": 396,
+    "Model": "R300 Road",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 72.5,
+    "Stack": 556,
+    "Reach": 376
+  },
+  {
+    "ID": 397,
+    "Model": "R300 Road",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "ML",
+    "HTA": 73,
+    "Stack": 575,
+    "Reach": 382
+  },
+  {
+    "ID": 398,
+    "Model": "R300 Road",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 73,
+    "Stack": 594,
+    "Reach": 391
+  },
+  {
+    "ID": 399,
+    "Model": "R300 Road",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 73,
+    "Stack": 614,
+    "Reach": 396
+  },
+  {
+    "ID": 400,
+    "Model": "R500 Disc",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71.5,
+    "Stack": 510,
+    "Reach": 372
+  },
+  {
+    "ID": 401,
+    "Model": "R500 Disc",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 72.5,
+    "Stack": 527,
+    "Reach": 378
+  },
+  {
+    "ID": 402,
+    "Model": "R500 Disc",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 72.5,
+    "Stack": 541,
+    "Reach": 389
+  },
+  {
+    "ID": 403,
+    "Model": "R500 Disc",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "ML",
+    "HTA": 73,
+    "Stack": 562,
+    "Reach": 394
+  },
+  {
+    "ID": 404,
+    "Model": "R500 Disc",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 73,
+    "Stack": 580,
+    "Reach": 408
+  },
+  {
+    "ID": 405,
+    "Model": "R500 Disc",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 73,
+    "Stack": 597,
+    "Reach": 422
+  },
+  {
+    "ID": 406,
+    "Model": "GR Race Gravel",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 70.5,
+    "Stack": 540,
+    "Reach": 368
+  },
+  {
+    "ID": 407,
+    "Model": "GR Race Gravel",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 70.5,
+    "Stack": 542,
+    "Reach": 384
+  },
+  {
+    "ID": 408,
+    "Model": "GR Race Gravel",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 71.5,
+    "Stack": 564,
+    "Reach": 387
+  },
+  {
+    "ID": 409,
+    "Model": "GR Race Gravel",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "ML",
+    "HTA": 71.5,
+    "Stack": 586,
+    "Reach": 385
+  },
+  {
+    "ID": 410,
+    "Model": "GR Race Gravel",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 72.5,
+    "Stack": 613,
+    "Reach": 392
+  },
+  {
+    "ID": 411,
+    "Model": "GR Race Gravel",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 72.5,
+    "Stack": 630,
+    "Reach": 397
+  },
+  {
+    "ID": 412,
+    "Model": "GR300 Gravel",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 70,
+    "Stack": 530,
+    "Reach": 370
+  },
+  {
+    "ID": 413,
+    "Model": "GR300 Gravel",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 70,
+    "Stack": 550,
+    "Reach": 375
+  },
+  {
+    "ID": 414,
+    "Model": "GR300 Gravel",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 70.5,
+    "Stack": 570,
+    "Reach": 380
+  },
+  {
+    "ID": 415,
+    "Model": "GR300 Gravel",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "ML",
+    "HTA": 70.5,
+    "Stack": 590,
+    "Reach": 385
+  },
+  {
+    "ID": 416,
+    "Model": "GR300 Gravel",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 71,
+    "Stack": 615,
+    "Reach": 390
+  },
+  {
+    "ID": 417,
+    "Model": "GR300 Gravel",
+    "Brand": "Lynskey",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 71,
+    "Stack": 635,
+    "Reach": 400
+  },
+  {
+    "ID": 418,
+    "Model": "Orca Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:47",
+    "HTA": 71,
+    "Stack": 506,
+    "Reach": 370
+  },
+  {
+    "ID": 419,
+    "Model": "Orca Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:49",
+    "HTA": 71.5,
+    "Stack": 515,
+    "Reach": 375
+  },
+  {
+    "ID": 420,
+    "Model": "Orca Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 72.2,
+    "Stack": 533,
+    "Reach": 380
+  },
+  {
+    "ID": 421,
+    "Model": "Orca Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:53",
+    "HTA": 72.8,
+    "Stack": 552,
+    "Reach": 385
+  },
+  {
+    "ID": 422,
+    "Model": "Orca Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:55",
+    "HTA": 73,
+    "Stack": 572,
+    "Reach": 391
+  },
+  {
+    "ID": 423,
+    "Model": "Orca Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:57",
+    "HTA": 73.2,
+    "Stack": 590,
+    "Reach": 398
+  },
+  {
+    "ID": 424,
+    "Model": "Orca Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 73.2,
+    "Stack": 616,
+    "Reach": 404
   }
 ]
