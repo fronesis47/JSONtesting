@@ -655,7 +655,7 @@
     "Brand": "Cannondale",
     "Year": 2020,
     "Size": "XS",
-    "HTA": "70,0",
+    "HTA": 70.0,
     "Stack": 518,
     "Reach": 368
   },
