@@ -921,7 +921,7 @@
   },
   {
     "ID": 93,
-    "Model": "Synapse Carb Flat",
+    "Model": "Synapse Carb Flat Bar",
     "Brand": "Cannondale",
     "Year": 2020,
     "Size": "MD",
@@ -931,7 +931,7 @@
   },
   {
     "ID": 94,
-    "Model": "Synapse Carb Flat",
+    "Model": "Synapse Carb Flat Bar",
     "Brand": "Cannondale",
     "Year": 2020,
     "Size": "LG",
@@ -941,7 +941,7 @@
   },
   {
     "ID": 95,
-    "Model": "Synapse Carb Flat",
+    "Model": "Synapse Carb Flat Bar",
     "Brand": "Cannondale",
     "Year": 2020,
     "Size": "XL",
@@ -1871,7 +1871,7 @@
   },
   {
     "ID": 188,
-    "Model": "Endurace Wmn AL",
+    "Model": "Endurance Wmn AL Disc",
     "Brand": "Canyon",
     "Year": 2020,
     "Size": "3XS",
@@ -1881,7 +1881,7 @@
   },
   {
     "ID": 189,
-    "Model": "Endurace Wmn AL",
+    "Model": "Endurance Wmn AL Disc",
     "Brand": "Canyon",
     "Year": 2020,
     "Size": "2XS",
@@ -1891,7 +1891,7 @@
   },
   {
     "ID": 190,
-    "Model": "Endurace Wmn AL",
+    "Model": "Endurance Wmn AL Disc",
     "Brand": "Canyon",
     "Year": 2020,
     "Size": "XS",
@@ -1901,7 +1901,7 @@
   },
   {
     "ID": 191,
-    "Model": "Endurace Wmn AL",
+    "Model": "Endurance Wmn AL Disc",
     "Brand": "Canyon",
     "Year": 2020,
     "Size": "S",
@@ -1911,7 +1911,7 @@
   },
   {
     "ID": 192,
-    "Model": "Endurace Wmn AL",
+    "Model": "Endurance Wmn AL Disc",
     "Brand": "Canyon",
     "Year": 2020,
     "Size": "M",
@@ -4441,7 +4441,7 @@
   },
   {
     "ID": 445,
-    "Model": "Urban Speed (C/V)",
+    "Model": "Urban Speed (Carpe/Vector)",
     "Brand": "Orbea",
     "Year": 2020,
     "Size": "S",
@@ -4451,7 +4451,7 @@
   },
   {
     "ID": 446,
-    "Model": "Urban Speed (C/V)",
+    "Model": "Urban Speed (Carpe/Vector)",
     "Brand": "Orbea",
     "Year": 2020,
     "Size": "M",
@@ -4461,7 +4461,7 @@
   },
   {
     "ID": 447,
-    "Model": "Urban Speed (C/V)",
+    "Model": "Urban Speed (Carpe/Vector)",
     "Brand": "Orbea",
     "Year": 2020,
     "Size": "L",
@@ -4471,7 +4471,7 @@
   },
   {
     "ID": 448,
-    "Model": "Urban Speed (C/V)",
+    "Model": "Urban Speed (Carpe/Vector)",
     "Brand": "Orbea",
     "Year": 2020,
     "Size": "XL",
@@ -5431,7 +5431,7 @@
   },
   {
     "ID": 544,
-    "Model": "Alpench. 01",
+    "Model": "Alpenchallenge 01",
     "Brand": "BMC",
     "Year": 2021,
     "Size": "S",
@@ -5441,7 +5441,7 @@
   },
   {
     "ID": 545,
-    "Model": "Alpench. 01",
+    "Model": "Alpenchallenge 01",
     "Brand": "BMC",
     "Year": 2021,
     "Size": "M",
@@ -5451,7 +5451,7 @@
   },
   {
     "ID": 546,
-    "Model": "Alpench. 01",
+    "Model": "Alpenchallenge 01",
     "Brand": "BMC",
     "Year": 2021,
     "Size": "L",
@@ -5461,7 +5461,7 @@
   },
   {
     "ID": 547,
-    "Model": "Alpench. 01",
+    "Model": "Alpenchallenge 01",
     "Brand": "BMC",
     "Year": 2021,
     "Size": "XL",
@@ -5471,7 +5471,7 @@
   },
   {
     "ID": 548,
-    "Model": "Alpench. 02",
+    "Model": "Alpenchallenge 02",
     "Brand": "BMC",
     "Year": 2021,
     "Size": "S",
@@ -5481,7 +5481,7 @@
   },
   {
     "ID": 549,
-    "Model": "Alpench. 02",
+    "Model": "Alpenchallenge 02",
     "Brand": "BMC",
     "Year": 2021,
     "Size": "M",
@@ -5491,7 +5491,7 @@
   },
   {
     "ID": 550,
-    "Model": "Alpench. 02",
+    "Model": "Alpenchallenge 02",
     "Brand": "BMC",
     "Year": 2021,
     "Size": "L",
@@ -5501,7 +5501,7 @@
   },
   {
     "ID": 551,
-    "Model": "Alpench. 02",
+    "Model": "Alpenchallenge 02",
     "Brand": "BMC",
     "Year": 2021,
     "Size": "XL",
@@ -5511,7 +5511,7 @@
   },
   {
     "ID": 552,
-    "Model": "Alpench. AMP",
+    "Model": "Alpenchallenge AMP",
     "Brand": "BMC",
     "Year": 2021,
     "Size": "S",
@@ -5521,7 +5521,7 @@
   },
   {
     "ID": 553,
-    "Model": "Alpench. AMP",
+    "Model": "Alpenchallenge AMP",
     "Brand": "BMC",
     "Year": 2021,
     "Size": "M",
@@ -5531,7 +5531,7 @@
   },
   {
     "ID": 554,
-    "Model": "Alpench. AMP",
+    "Model": "Alpenchallenge AMP",
     "Brand": "BMC",
     "Year": 2021,
     "Size": "L",
@@ -5551,7 +5551,7 @@
   },
   {
     "ID": 556,
-    "Model": "Renegade Esc",
+    "Model": "Renegade Escapade",
     "Brand": "Jamis",
     "Year": 2020,
     "Size": "Sz:48",
@@ -5561,7 +5561,7 @@
   },
   {
     "ID": 557,
-    "Model": "Renegade Esc",
+    "Model": "Renegade Escapade",
     "Brand": "Jamis",
     "Year": 2020,
     "Size": "Sz:51",
@@ -5571,7 +5571,7 @@
   },
   {
     "ID": 558,
-    "Model": "Renegade Esc",
+    "Model": "Renegade Escapade",
     "Brand": "Jamis",
     "Year": 2020,
     "Size": "Sz:54",
@@ -5581,7 +5581,7 @@
   },
   {
     "ID": 559,
-    "Model": "Renegade Esc",
+    "Model": "Renegade Escapade",
     "Brand": "Jamis",
     "Year": 2020,
     "Size": "Sz:56",
@@ -5591,7 +5591,7 @@
   },
   {
     "ID": 560,
-    "Model": "Renegade Esc",
+    "Model": "Renegade Escapade",
     "Brand": "Jamis",
     "Year": 2020,
     "Size": "Sz:58",
@@ -5601,7 +5601,7 @@
   },
   {
     "ID": 561,
-    "Model": "Renegade Esc",
+    "Model": "Renegade Escapade",
     "Brand": "Jamis",
     "Year": 2020,
     "Size": "Sz:61",
@@ -5841,7 +5841,7 @@
   },
   {
     "ID": 585,
-    "Model": "Ventura Sp Femme",
+    "Model": "Ventura Sport Femme",
     "Brand": "Jamis",
     "Year": 2020,
     "Size": "Sz:61",
@@ -5851,7 +5851,7 @@
   },
   {
     "ID": 586,
-    "Model": "Ventura Sp Femme",
+    "Model": "Ventura Sport Femme",
     "Brand": "Jamis",
     "Year": 2020,
     "Size": "Sz:44",
@@ -5861,7 +5861,7 @@
   },
   {
     "ID": 587,
-    "Model": "Ventura Sp Femme",
+    "Model": "Ventura Sport Femme",
     "Brand": "Jamis",
     "Year": 2020,
     "Size": "Sz:48",
@@ -5871,7 +5871,7 @@
   },
   {
     "ID": 588,
-    "Model": "Ventura Sp Femme",
+    "Model": "Ventura Sport Femme",
     "Brand": "Jamis",
     "Year": 2020,
     "Size": "Sz:51",
@@ -5881,7 +5881,7 @@
   },
   {
     "ID": 589,
-    "Model": "Ventura Sp Femme",
+    "Model": "Ventura Sport Femme",
     "Brand": "Jamis",
     "Year": 2020,
     "Size": "Sz:54",
