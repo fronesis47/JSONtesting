@@ -3,7 +3,7 @@
     "ID": 1,
     "Model": "CFSL8",
     "Brand": "Canyon",
-    "Year": 2019,
+    "Year": 2020,
     "Size": "2XS",
     "HTA": 69.2,
     "Stack": 510,
@@ -1351,7 +1351,7 @@
   },
   {
     "ID": 136,
-    "Model": "920 touring",
+    "Model": "920 Touring",
     "Brand": "Trek",
     "Year": 2020,
     "Size": "Sz:49",
@@ -1361,7 +1361,7 @@
   },
   {
     "ID": 137,
-    "Model": "920 touring",
+    "Model": "920 Touring",
     "Brand": "Trek",
     "Year": 2020,
     "Size": "Sz:52",
@@ -1371,7 +1371,7 @@
   },
   {
     "ID": 138,
-    "Model": "920 touring",
+    "Model": "920 Touring",
     "Brand": "Trek",
     "Year": 2020,
     "Size": "Sz:54",
@@ -1381,7 +1381,7 @@
   },
   {
     "ID": 139,
-    "Model": "920 touring",
+    "Model": "920 Touring",
     "Brand": "Trek",
     "Year": 2020,
     "Size": "Sz:56",
@@ -1391,7 +1391,7 @@
   },
   {
     "ID": 140,
-    "Model": "920 touring",
+    "Model": "920 Touring",
     "Brand": "Trek",
     "Year": 2020,
     "Size": "Sz:58",
@@ -1401,7 +1401,7 @@
   },
   {
     "ID": 141,
-    "Model": "920 touring",
+    "Model": "920 Touring",
     "Brand": "Trek",
     "Year": 2020,
     "Size": "Sz:61",
@@ -4238,5 +4238,2045 @@
     "HTA": 73.2,
     "Stack": 616,
     "Reach": 404
+  },
+  {
+    "ID": 425,
+    "Model": "Areo Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:47",
+    "HTA": 71,
+    "Stack": 501,
+    "Reach": 370
+  },
+  {
+    "ID": 426,
+    "Model": "Areo Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:49",
+    "HTA": 71.5,
+    "Stack": 510,
+    "Reach": 375
+  },
+  {
+    "ID": 427,
+    "Model": "Areo Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 72.2,
+    "Stack": 528,
+    "Reach": 380
+  },
+  {
+    "ID": 428,
+    "Model": "Areo Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:53",
+    "HTA": 72.8,
+    "Stack": 548,
+    "Reach": 385
+  },
+  {
+    "ID": 429,
+    "Model": "Areo Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:55",
+    "HTA": 73,
+    "Stack": 567,
+    "Reach": 391
+  },
+  {
+    "ID": 430,
+    "Model": "Areo Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:57",
+    "HTA": 73.2,
+    "Stack": 585,
+    "Reach": 398
+  },
+  {
+    "ID": 431,
+    "Model": "Areo Carb OMR",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 73.2,
+    "Stack": 611,
+    "Reach": 404
+  },
+  {
+    "ID": 432,
+    "Model": "Avant Hydro Disc",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:47",
+    "HTA": 71,
+    "Stack": 525,
+    "Reach": 365
+  },
+  {
+    "ID": 433,
+    "Model": "Avant Hydro Disc",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:49",
+    "HTA": 71.5,
+    "Stack": 545,
+    "Reach": 370
+  },
+  {
+    "ID": 434,
+    "Model": "Avant Hydro Disc",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71.9,
+    "Stack": 565,
+    "Reach": 375
+  },
+  {
+    "ID": 435,
+    "Model": "Avant Hydro Disc",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:53",
+    "HTA": 72.4,
+    "Stack": 585,
+    "Reach": 380
+  },
+  {
+    "ID": 436,
+    "Model": "Avant Hydro Disc",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:55",
+    "HTA": 72.6,
+    "Stack": 605,
+    "Reach": 390
+  },
+  {
+    "ID": 437,
+    "Model": "Avant Hydro Disc",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:57",
+    "HTA": 72.8,
+    "Stack": 625,
+    "Reach": 395
+  },
+  {
+    "ID": 438,
+    "Model": "Avant Hydro Disc",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "Sz:60",
+    "HTA": 73,
+    "Stack": 645,
+    "Reach": 400
+  },
+  {
+    "ID": 439,
+    "Model": "Terra Carb OMP",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 70.5,
+    "Stack": 545,
+    "Reach": 370
+  },
+  {
+    "ID": 440,
+    "Model": "Terra Carb OMP",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 70.5,
+    "Stack": 560,
+    "Reach": 378
+  },
+  {
+    "ID": 441,
+    "Model": "Terra Carb OMP",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 70.5,
+    "Stack": 575,
+    "Reach": 385
+  },
+  {
+    "ID": 442,
+    "Model": "Terra Carb OMP",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 70.5,
+    "Stack": 600,
+    "Reach": 392
+  },
+  {
+    "ID": 443,
+    "Model": "Terra Carb OMP",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 70.5,
+    "Stack": 625,
+    "Reach": 400
+  },
+  {
+    "ID": 444,
+    "Model": "Terra Carb OMP",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71,
+    "Stack": 535,
+    "Reach": 378
+  },
+  {
+    "ID": 445,
+    "Model": "Urban Speed (Carpe/Vector)",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 71,
+    "Stack": 552,
+    "Reach": 388
+  },
+  {
+    "ID": 446,
+    "Model": "Urban Speed (Carpe/Vector)",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 71,
+    "Stack": 571,
+    "Reach": 395
+  },
+  {
+    "ID": 447,
+    "Model": "Urban Speed (Carpe/Vector)",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 71.5,
+    "Stack": 592,
+    "Reach": 405
+  },
+  {
+    "ID": 448,
+    "Model": "Urban Speed (Carpe/Vector)",
+    "Brand": "Orbea",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 72,
+    "Stack": 625,
+    "Reach": 410
+  },
+  {
+    "ID": 449,
+    "Model": "Track",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXS",
+    "HTA": 72,
+    "Stack": 464,
+    "Reach": 384
+  },
+  {
+    "ID": 450,
+    "Model": "Track",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71.5,
+    "Stack": 501,
+    "Reach": 383
+  },
+  {
+    "ID": 451,
+    "Model": "Track",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 72.5,
+    "Stack": 509,
+    "Reach": 393
+  },
+  {
+    "ID": 452,
+    "Model": "Track",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 72.5,
+    "Stack": 520,
+    "Reach": 391
+  },
+  {
+    "ID": 453,
+    "Model": "Track",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 73.5,
+    "Stack": 543,
+    "Reach": 395
+  },
+  {
+    "ID": 454,
+    "Model": "Track",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 73.5,
+    "Stack": 562,
+    "Reach": 399
+  },
+  {
+    "ID": 455,
+    "Model": "Track",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXL",
+    "HTA": 74,
+    "Stack": 589,
+    "Reach": 405
+  },
+  {
+    "ID": 456,
+    "Model": "Track Elite",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 74,
+    "Stack": 488,
+    "Reach": 379
+  },
+  {
+    "ID": 457,
+    "Model": "Track Elite",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 74,
+    "Stack": 488,
+    "Reach": 394
+  },
+  {
+    "ID": 458,
+    "Model": "Track Elite",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 74.5,
+    "Stack": 499,
+    "Reach": 402
+  },
+  {
+    "ID": 459,
+    "Model": "Track Elite",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 74.5,
+    "Stack": 514,
+    "Reach": 413
+  },
+  {
+    "ID": 460,
+    "Model": "Track Elite",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 74.5,
+    "Stack": 528,
+    "Reach": 424
+  },
+  {
+    "ID": 461,
+    "Model": "Track Elite",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXL",
+    "HTA": 74.5,
+    "Stack": 543,
+    "Reach": 439
+  },
+  {
+    "ID": 462,
+    "Model": "SL",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXS",
+    "HTA": 71,
+    "Stack": 497,
+    "Reach": 372
+  },
+  {
+    "ID": 463,
+    "Model": "SL",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71.5,
+    "Stack": 509,
+    "Reach": 374
+  },
+  {
+    "ID": 464,
+    "Model": "SL",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 71.5,
+    "Stack": 529,
+    "Reach": 376
+  },
+  {
+    "ID": 465,
+    "Model": "SL",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 73,
+    "Stack": 555,
+    "Reach": 381
+  },
+  {
+    "ID": 466,
+    "Model": "SL",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 73,
+    "Stack": 574,
+    "Reach": 385
+  },
+  {
+    "ID": 467,
+    "Model": "SL",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 73,
+    "Stack": 593,
+    "Reach": 399
+  },
+  {
+    "ID": 468,
+    "Model": "SL",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXL",
+    "HTA": 73,
+    "Stack": 612,
+    "Reach": 413
+  },
+  {
+    "ID": 469,
+    "Model": "Gran Fondo",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXS",
+    "HTA": 71,
+    "Stack": 506,
+    "Reach": 369
+  },
+  {
+    "ID": 470,
+    "Model": "Gran Fondo",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71.5,
+    "Stack": 531,
+    "Reach": 368
+  },
+  {
+    "ID": 471,
+    "Model": "Gran Fondo",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 71.5,
+    "Stack": 557,
+    "Reach": 368
+  },
+  {
+    "ID": 472,
+    "Model": "Gran Fondo",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 73,
+    "Stack": 582,
+    "Reach": 373
+  },
+  {
+    "ID": 473,
+    "Model": "Gran Fondo",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 73,
+    "Stack": 602,
+    "Reach": 376
+  },
+  {
+    "ID": 474,
+    "Model": "Gran Fondo",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 73,
+    "Stack": 625,
+    "Reach": 389
+  },
+  {
+    "ID": 475,
+    "Model": "Gran Fondo",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXL",
+    "HTA": 73,
+    "Stack": 645,
+    "Reach": 403
+  },
+  {
+    "ID": 476,
+    "Model": "Brevet",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXS",
+    "HTA": 71,
+    "Stack": 506,
+    "Reach": 369
+  },
+  {
+    "ID": 477,
+    "Model": "Brevet",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71.5,
+    "Stack": 531,
+    "Reach": 368
+  },
+  {
+    "ID": 478,
+    "Model": "Brevet",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 72,
+    "Stack": 557,
+    "Reach": 371
+  },
+  {
+    "ID": 479,
+    "Model": "Brevet",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 72,
+    "Stack": 576,
+    "Reach": 364
+  },
+  {
+    "ID": 480,
+    "Model": "Brevet",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 73,
+    "Stack": 602,
+    "Reach": 377
+  },
+  {
+    "ID": 481,
+    "Model": "Sportif",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 71,
+    "Stack": 505,
+    "Reach": 370
+  },
+  {
+    "ID": 482,
+    "Model": "Sportif",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXS",
+    "HTA": 71.5,
+    "Stack": 531,
+    "Reach": 368
+  },
+  {
+    "ID": 483,
+    "Model": "Sportif",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 71.5,
+    "Stack": 554,
+    "Reach": 369
+  },
+  {
+    "ID": 484,
+    "Model": "Sportif",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 73,
+    "Stack": 581,
+    "Reach": 373
+  },
+  {
+    "ID": 485,
+    "Model": "Sportif",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 73,
+    "Stack": 601,
+    "Reach": 376
+  },
+  {
+    "ID": 486,
+    "Model": "Sportif",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 73,
+    "Stack": 625,
+    "Reach": 389
+  },
+  {
+    "ID": 487,
+    "Model": "Sportif",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXL",
+    "HTA": 73,
+    "Stack": 644,
+    "Reach": 403
+  },
+  {
+    "ID": 488,
+    "Model": "Touring Disc",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 70,
+    "Stack": 549,
+    "Reach": 377
+  },
+  {
+    "ID": 489,
+    "Model": "Touring Disc",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 70.5,
+    "Stack": 561,
+    "Reach": 379
+  },
+  {
+    "ID": 490,
+    "Model": "Touring Disc",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 71,
+    "Stack": 582,
+    "Reach": 367
+  },
+  {
+    "ID": 491,
+    "Model": "Touring Disc",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 71,
+    "Stack": 601,
+    "Reach": 377
+  },
+  {
+    "ID": 492,
+    "Model": "Touring Disc",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 71,
+    "Stack": 620,
+    "Reach": 386
+  },
+  {
+    "ID": 493,
+    "Model": "Touring Disc",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXL",
+    "HTA": 71,
+    "Stack": 638,
+    "Reach": 395
+  },
+  {
+    "ID": 494,
+    "Model": "Touring Disc",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXXL",
+    "HTA": 71,
+    "Stack": 657,
+    "Reach": 402
+  },
+  {
+    "ID": 495,
+    "Model": "Jari Carbon",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 70.5,
+    "Stack": 541,
+    "Reach": 375
+  },
+  {
+    "ID": 496,
+    "Model": "Jari Carbon",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 71,
+    "Stack": 560,
+    "Reach": 375
+  },
+  {
+    "ID": 497,
+    "Model": "Jari Carbon",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 71.5,
+    "Stack": 572,
+    "Reach": 370
+  },
+  {
+    "ID": 498,
+    "Model": "Jari Carbon",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 72,
+    "Stack": 592,
+    "Reach": 379
+  },
+  {
+    "ID": 499,
+    "Model": "Jari Carbon",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 72,
+    "Stack": 609,
+    "Reach": 383
+  },
+  {
+    "ID": 500,
+    "Model": "Jari Carbon",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXL",
+    "HTA": 72,
+    "Stack": 628,
+    "Reach": 397
+  },
+  {
+    "ID": 501,
+    "Model": "Absolute",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 69,
+    "Stack": 528,
+    "Reach": 392
+  },
+  {
+    "ID": 502,
+    "Model": "Absolute",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 70,
+    "Stack": 555,
+    "Reach": 390
+  },
+  {
+    "ID": 503,
+    "Model": "Absolute",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 71,
+    "Stack": 583,
+    "Reach": 395
+  },
+  {
+    "ID": 504,
+    "Model": "Absolute",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 71,
+    "Stack": 601,
+    "Reach": 416
+  },
+  {
+    "ID": 505,
+    "Model": "Absolute",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XXL",
+    "HTA": 71,
+    "Stack": 630,
+    "Reach": 432
+  },
+  {
+    "ID": 506,
+    "Model": "Traverse",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XS",
+    "HTA": 70,
+    "Stack": 594,
+    "Reach": 365
+  },
+  {
+    "ID": 507,
+    "Model": "Traverse",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "S",
+    "HTA": 70,
+    "Stack": 604,
+    "Reach": 381
+  },
+  {
+    "ID": 508,
+    "Model": "Traverse",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "M",
+    "HTA": 70.5,
+    "Stack": 624,
+    "Reach": 380
+  },
+  {
+    "ID": 509,
+    "Model": "Traverse",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "L",
+    "HTA": 71.5,
+    "Stack": 639,
+    "Reach": 391
+  },
+  {
+    "ID": 510,
+    "Model": "Traverse",
+    "Brand": "Fuji",
+    "Year": 2020,
+    "Size": "XL",
+    "HTA": 71.5,
+    "Stack": 657,
+    "Reach": 400
+  },
+  {
+    "ID": 511,
+    "Model": "Teammachine SLR",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:47",
+    "HTA": 71.5,
+    "Stack": 506,
+    "Reach": 367
+  },
+  {
+    "ID": 512,
+    "Model": "Teammachine SLR",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:51",
+    "HTA": 71.5,
+    "Stack": 530,
+    "Reach": 377
+  },
+  {
+    "ID": 513,
+    "Model": "Teammachine SLR",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:54",
+    "HTA": 72.3,
+    "Stack": 550,
+    "Reach": 386
+  },
+  {
+    "ID": 514,
+    "Model": "Teammachine SLR",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:55",
+    "HTA": 72.3,
+    "Stack": 565,
+    "Reach": 392
+  },
+  {
+    "ID": 515,
+    "Model": "Teammachine SLR",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:56",
+    "HTA": 72.3,
+    "Stack": 584,
+    "Reach": 401
+  },
+  {
+    "ID": 516,
+    "Model": "Teammachine SLR",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:61",
+    "HTA": 72.3,
+    "Stack": 608,
+    "Reach": 409
+  },
+  {
+    "ID": 517,
+    "Model": "Teammachine ALR",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:47",
+    "HTA": 70.5,
+    "Stack": 515,
+    "Reach": 365
+  },
+  {
+    "ID": 518,
+    "Model": "Teammachine ALR",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:51",
+    "HTA": 72,
+    "Stack": 539,
+    "Reach": 374
+  },
+  {
+    "ID": 519,
+    "Model": "Teammachine ALR",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:54",
+    "HTA": 72.5,
+    "Stack": 559,
+    "Reach": 383
+  },
+  {
+    "ID": 520,
+    "Model": "Teammachine ALR",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:57",
+    "HTA": 72,
+    "Stack": 583,
+    "Reach": 391
+  },
+  {
+    "ID": 521,
+    "Model": "Teammachine ALR",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:60",
+    "HTA": 72,
+    "Stack": 610,
+    "Reach": 402
+  },
+  {
+    "ID": 522,
+    "Model": "Roadmachine",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:47",
+    "HTA": 71.2,
+    "Stack": 516,
+    "Reach": 374
+  },
+  {
+    "ID": 523,
+    "Model": "Roadmachine",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:51",
+    "HTA": 71.2,
+    "Stack": 541,
+    "Reach": 382
+  },
+  {
+    "ID": 524,
+    "Model": "Roadmachine",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:54",
+    "HTA": 72,
+    "Stack": 562,
+    "Reach": 386
+  },
+  {
+    "ID": 525,
+    "Model": "Roadmachine",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:56",
+    "HTA": 72,
+    "Stack": 586,
+    "Reach": 390
+  },
+  {
+    "ID": 526,
+    "Model": "Roadmachine",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:58",
+    "HTA": 72,
+    "Stack": 610,
+    "Reach": 394
+  },
+  {
+    "ID": 527,
+    "Model": "Roadmachine",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:61",
+    "HTA": 72,
+    "Stack": 644,
+    "Reach": 398
+  },
+  {
+    "ID": 528,
+    "Model": "Roadmachine X",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:47",
+    "HTA": 70.5,
+    "Stack": 525,
+    "Reach": 376
+  },
+  {
+    "ID": 529,
+    "Model": "Roadmachine X",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:51",
+    "HTA": 70.5,
+    "Stack": 550,
+    "Reach": 376
+  },
+  {
+    "ID": 530,
+    "Model": "Roadmachine X",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:54",
+    "HTA": 71.5,
+    "Stack": 571,
+    "Reach": 385
+  },
+  {
+    "ID": 531,
+    "Model": "Roadmachine X",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:56",
+    "HTA": 71.5,
+    "Stack": 585,
+    "Reach": 391
+  },
+  {
+    "ID": 532,
+    "Model": "Roadmachine X",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:58",
+    "HTA": 72,
+    "Stack": 604,
+    "Reach": 400
+  },
+  {
+    "ID": 533,
+    "Model": "Roadmachine X",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:61",
+    "HTA": 72.5,
+    "Stack": 628,
+    "Reach": 408
+  },
+  {
+    "ID": 534,
+    "Model": "Timemachine 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:47",
+    "HTA": 71.2,
+    "Stack": 496,
+    "Reach": 373
+  },
+  {
+    "ID": 535,
+    "Model": "Timemachine 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:51",
+    "HTA": 71.2,
+    "Stack": 520,
+    "Reach": 381
+  },
+  {
+    "ID": 536,
+    "Model": "Timemachine 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:54",
+    "HTA": 72,
+    "Stack": 540,
+    "Reach": 390
+  },
+  {
+    "ID": 537,
+    "Model": "Timemachine 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:56",
+    "HTA": 72,
+    "Stack": 555,
+    "Reach": 395
+  },
+  {
+    "ID": 538,
+    "Model": "Timemachine 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:58",
+    "HTA": 72,
+    "Stack": 574,
+    "Reach": 405
+  },
+  {
+    "ID": 539,
+    "Model": "Timemachine 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "Sz:61",
+    "HTA": 72,
+    "Stack": 598,
+    "Reach": 413
+  },
+  {
+    "ID": 540,
+    "Model": "URS 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "S",
+    "HTA": 70,
+    "Stack": 538,
+    "Reach": 403
+  },
+  {
+    "ID": 541,
+    "Model": "URS 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "M",
+    "HTA": 70,
+    "Stack": 569,
+    "Reach": 415
+  },
+  {
+    "ID": 542,
+    "Model": "URS 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "L",
+    "HTA": 70,
+    "Stack": 603,
+    "Reach": 419
+  },
+  {
+    "ID": 543,
+    "Model": "URS 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "XL",
+    "HTA": 70,
+    "Stack": 641,
+    "Reach": 429
+  },
+  {
+    "ID": 544,
+    "Model": "Alpenchallenge 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "S",
+    "HTA": 72,
+    "Stack": 533,
+    "Reach": 390
+  },
+  {
+    "ID": 545,
+    "Model": "Alpenchallenge 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "M",
+    "HTA": 72,
+    "Stack": 571,
+    "Reach": 406
+  },
+  {
+    "ID": 546,
+    "Model": "Alpenchallenge 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "L",
+    "HTA": 72,
+    "Stack": 590,
+    "Reach": 415
+  },
+  {
+    "ID": 547,
+    "Model": "Alpenchallenge 01",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "XL",
+    "HTA": 72,
+    "Stack": 628,
+    "Reach": 431
+  },
+  {
+    "ID": 548,
+    "Model": "Alpenchallenge 02",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "S",
+    "HTA": 71,
+    "Stack": 530,
+    "Reach": 390
+  },
+  {
+    "ID": 549,
+    "Model": "Alpenchallenge 02",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "M",
+    "HTA": 71,
+    "Stack": 571,
+    "Reach": 405
+  },
+  {
+    "ID": 550,
+    "Model": "Alpenchallenge 02",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "L",
+    "HTA": 71,
+    "Stack": 591,
+    "Reach": 415
+  },
+  {
+    "ID": 551,
+    "Model": "Alpenchallenge 02",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "XL",
+    "HTA": 71,
+    "Stack": 630,
+    "Reach": 430
+  },
+  {
+    "ID": 552,
+    "Model": "Alpenchallenge AMP",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "S",
+    "HTA": 71.25,
+    "Stack": 565,
+    "Reach": 380
+  },
+  {
+    "ID": 553,
+    "Model": "Alpenchallenge AMP",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "M",
+    "HTA": 72,
+    "Stack": 600,
+    "Reach": 405
+  },
+  {
+    "ID": 554,
+    "Model": "Alpenchallenge AMP",
+    "Brand": "BMC",
+    "Year": 2021,
+    "Size": "L",
+    "HTA": 72,
+    "Stack": 635,
+    "Reach": 425
+  },
+  {
+    "ID": 555,
+    "Model": "Renegade Escapade",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 71,
+    "Stack": 495,
+    "Reach": 351
+  },
+  {
+    "ID": 556,
+    "Model": "Renegade Escapade",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 71,
+    "Stack": 515,
+    "Reach": 360
+  },
+  {
+    "ID": 557,
+    "Model": "Renegade Escapade",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71,
+    "Stack": 535,
+    "Reach": 369
+  },
+  {
+    "ID": 558,
+    "Model": "Renegade Escapade",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71.5,
+    "Stack": 565,
+    "Reach": 378
+  },
+  {
+    "ID": 559,
+    "Model": "Renegade Escapade",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 71.5,
+    "Stack": 595,
+    "Reach": 387
+  },
+  {
+    "ID": 560,
+    "Model": "Renegade Escapade",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 72,
+    "Stack": 620,
+    "Reach": 396
+  },
+  {
+    "ID": 561,
+    "Model": "Renegade Escapade",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 72.5,
+    "Stack": 640,
+    "Reach": 405
+  },
+  {
+    "ID": 562,
+    "Model": "Renegade A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 71,
+    "Stack": 498,
+    "Reach": 350
+  },
+  {
+    "ID": 563,
+    "Model": "Renegade A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 71,
+    "Stack": 521,
+    "Reach": 359
+  },
+  {
+    "ID": 564,
+    "Model": "Renegade A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71,
+    "Stack": 544,
+    "Reach": 367
+  },
+  {
+    "ID": 565,
+    "Model": "Renegade A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71.5,
+    "Stack": 573,
+    "Reach": 376
+  },
+  {
+    "ID": 566,
+    "Model": "Renegade A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 71.5,
+    "Stack": 601,
+    "Reach": 386
+  },
+  {
+    "ID": 567,
+    "Model": "Renegade A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 72,
+    "Stack": 626,
+    "Reach": 395
+  },
+  {
+    "ID": 568,
+    "Model": "Renegade A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 72.5,
+    "Stack": 647,
+    "Reach": 404
+  },
+  {
+    "ID": 569,
+    "Model": "Renegade S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 71,
+    "Stack": 505,
+    "Reach": 351
+  },
+  {
+    "ID": 570,
+    "Model": "Renegade S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 71,
+    "Stack": 525,
+    "Reach": 360
+  },
+  {
+    "ID": 571,
+    "Model": "Renegade S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71,
+    "Stack": 545,
+    "Reach": 369
+  },
+  {
+    "ID": 572,
+    "Model": "Renegade S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71.5,
+    "Stack": 575,
+    "Reach": 378
+  },
+  {
+    "ID": 573,
+    "Model": "Renegade S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 71.5,
+    "Stack": 605,
+    "Reach": 387
+  },
+  {
+    "ID": 574,
+    "Model": "Renegade S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 72,
+    "Stack": 630,
+    "Reach": 396
+  },
+  {
+    "ID": 575,
+    "Model": "Renegade S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 72.5,
+    "Stack": 650,
+    "Reach": 405
+  },
+  {
+    "ID": 576,
+    "Model": "Ventura A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 71,
+    "Stack": 535,
+    "Reach": 360
+  },
+  {
+    "ID": 577,
+    "Model": "Ventura A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 72,
+    "Stack": 556,
+    "Reach": 366
+  },
+  {
+    "ID": 578,
+    "Model": "Ventura A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 72.5,
+    "Stack": 573,
+    "Reach": 373
+  },
+  {
+    "ID": 579,
+    "Model": "Ventura A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73,
+    "Stack": 598,
+    "Reach": 376
+  },
+  {
+    "ID": 580,
+    "Model": "Ventura A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73,
+    "Stack": 616,
+    "Reach": 383
+  },
+  {
+    "ID": 581,
+    "Model": "Ventura A1 wmn",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 70.5,
+    "Stack": 523,
+    "Reach": 358
+  },
+  {
+    "ID": 582,
+    "Model": "Ventura A1 wmn",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 71,
+    "Stack": 538,
+    "Reach": 363
+  },
+  {
+    "ID": 583,
+    "Model": "Ventura A1 wmn",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71,
+    "Stack": 561,
+    "Reach": 368
+  },
+  {
+    "ID": 584,
+    "Model": "Ventura A1 wmn",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71,
+    "Stack": 580,
+    "Reach": 375
+  },
+  {
+    "ID": 585,
+    "Model": "Ventura Sport Femme",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 73,
+    "Stack": 635,
+    "Reach": 388
+  },
+  {
+    "ID": 586,
+    "Model": "Ventura Sport Femme",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:44",
+    "HTA": 70.5,
+    "Stack": 523,
+    "Reach": 358
+  },
+  {
+    "ID": 587,
+    "Model": "Ventura Sport Femme",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 71,
+    "Stack": 538,
+    "Reach": 363
+  },
+  {
+    "ID": 588,
+    "Model": "Ventura Sport Femme",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71,
+    "Stack": 561,
+    "Reach": 368
+  },
+  {
+    "ID": 589,
+    "Model": "Ventura Sport Femme",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71,
+    "Stack": 580,
+    "Reach": 375
+  },
+  {
+    "ID": 590,
+    "Model": "Quest Elite",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 71,
+    "Stack": 547,
+    "Reach": 367
+  },
+  {
+    "ID": 591,
+    "Model": "Quest Elite",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 72,
+    "Stack": 566,
+    "Reach": 371
+  },
+  {
+    "ID": 592,
+    "Model": "Quest Elite",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 72.5,
+    "Stack": 586,
+    "Reach": 376
+  },
+  {
+    "ID": 593,
+    "Model": "Quest Elite",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73,
+    "Stack": 605,
+    "Reach": 380
+  },
+  {
+    "ID": 594,
+    "Model": "Quest Elite",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73,
+    "Stack": 624,
+    "Reach": 383
+  },
+  {
+    "ID": 595,
+    "Model": "Quest Elite",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 73,
+    "Stack": 645,
+    "Reach": 388
+  },
+  {
+    "ID": 596,
+    "Model": "Quest Comp",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 71,
+    "Stack": 550,
+    "Reach": 367
+  },
+  {
+    "ID": 597,
+    "Model": "Quest Comp",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 72,
+    "Stack": 570,
+    "Reach": 371
+  },
+  {
+    "ID": 598,
+    "Model": "Quest Comp",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 72.5,
+    "Stack": 588,
+    "Reach": 375
+  },
+  {
+    "ID": 599,
+    "Model": "Quest Comp",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:56",
+    "HTA": 73,
+    "Stack": 607,
+    "Reach": 379
+  },
+  {
+    "ID": 600,
+    "Model": "Quest Comp",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:58",
+    "HTA": 73,
+    "Stack": 626,
+    "Reach": 383
+  },
+  {
+    "ID": 601,
+    "Model": "Quest Comp",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:61",
+    "HTA": 73,
+    "Stack": 645,
+    "Reach": 383
+  },
+  {
+    "ID": 602,
+    "Model": "Quest Elite Femme",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 71,
+    "Stack": 537,
+    "Reach": 365
+  },
+  {
+    "ID": 603,
+    "Model": "Quest Elite Femme",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71.5,
+    "Stack": 557,
+    "Reach": 370
+  },
+  {
+    "ID": 604,
+    "Model": "Quest Elite Femme",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71.5,
+    "Stack": 578,
+    "Reach": 375
+  },
+  {
+    "ID": 605,
+    "Model": "Quest Comp Femme",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:48",
+    "HTA": 71,
+    "Stack": 540,
+    "Reach": 365
+  },
+  {
+    "ID": 606,
+    "Model": "Quest Comp Femme",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:51",
+    "HTA": 71.5,
+    "Stack": 560,
+    "Reach": 370
+  },
+  {
+    "ID": 607,
+    "Model": "Quest Comp Femme",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:54",
+    "HTA": 71.5,
+    "Stack": 580,
+    "Reach": 375
+  },
+  {
+    "ID": 608,
+    "Model": "Coda S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:14",
+    "HTA": 71,
+    "Stack": 533,
+    "Reach": 397
+  },
+  {
+    "ID": 609,
+    "Model": "Coda S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:16",
+    "HTA": 71,
+    "Stack": 546,
+    "Reach": 405
+  },
+  {
+    "ID": 610,
+    "Model": "Coda S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:18",
+    "HTA": 71,
+    "Stack": 559,
+    "Reach": 412
+  },
+  {
+    "ID": 611,
+    "Model": "Coda S3",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:15",
+    "HTA": 72,
+    "Stack": 545,
+    "Reach": 398
+  },
+  {
+    "ID": 612,
+    "Model": "Coda S3",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:17",
+    "HTA": 72,
+    "Stack": 569,
+    "Reach": 396
+  },
+  {
+    "ID": 613,
+    "Model": "Coda S3",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:19",
+    "HTA": 72,
+    "Stack": 591,
+    "Reach": 408
+  },
+  {
+    "ID": 614,
+    "Model": "Coda S3",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:21",
+    "HTA": 72,
+    "Stack": 616,
+    "Reach": 408
+  },
+  {
+    "ID": 615,
+    "Model": "Coda S3",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:23",
+    "HTA": 72,
+    "Stack": 639,
+    "Reach": 406
+  },
+  {
+    "ID": 616,
+    "Model": "Sequel S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:15",
+    "HTA": 71,
+    "Stack": 531,
+    "Reach": 403
+  },
+  {
+    "ID": 617,
+    "Model": "Sequel S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:17",
+    "HTA": 71,
+    "Stack": 559,
+    "Reach": 428
+  },
+  {
+    "ID": 618,
+    "Model": "Sequel S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:19",
+    "HTA": 71.5,
+    "Stack": 586,
+    "Reach": 421
+  },
+  {
+    "ID": 619,
+    "Model": "Sequel S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:21",
+    "HTA": 71.5,
+    "Stack": 614,
+    "Reach": 427
+  },
+  {
+    "ID": 620,
+    "Model": "Sequel S1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:23",
+    "HTA": 71.5,
+    "Stack": 638,
+    "Reach": 448
+  },
+  {
+    "ID": 621,
+    "Model": "Allegro A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:15",
+    "HTA": 72,
+    "Stack": 545,
+    "Reach": 402
+  },
+  {
+    "ID": 622,
+    "Model": "Allegro A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:17",
+    "HTA": 72,
+    "Stack": 569,
+    "Reach": 392
+  },
+  {
+    "ID": 623,
+    "Model": "Allegro A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:19",
+    "HTA": 72,
+    "Stack": 592,
+    "Reach": 396
+  },
+  {
+    "ID": 624,
+    "Model": "Allegro A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:21",
+    "HTA": 73,
+    "Stack": 616,
+    "Reach": 401
+  },
+  {
+    "ID": 625,
+    "Model": "Allegro A1",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:23",
+    "HTA": 73,
+    "Stack": 639,
+    "Reach": 406
+  },
+  {
+    "ID": 626,
+    "Model": "Allegro A1 Wmn",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:14",
+    "HTA": 71,
+    "Stack": 533,
+    "Reach": 371
+  },
+  {
+    "ID": 627,
+    "Model": "Allegro A1 Wmn",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:16",
+    "HTA": 71,
+    "Stack": 546,
+    "Reach": 374
+  },
+  {
+    "ID": 628,
+    "Model": "Allegro A1 Wmn",
+    "Brand": "Jamis",
+    "Year": 2020,
+    "Size": "Sz:18",
+    "HTA": 71,
+    "Stack": 559,
+    "Reach": 378
   }
 ]
